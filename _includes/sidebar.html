@@ -8,7 +8,7 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-    <li>
+    <ul>
      {% if site.twitter_username %}
   
     <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -35,7 +35,7 @@
     <a href="https://www.facebook.com/{{ site.facebook_username }}">
       <i class="fa fa-facebook fa-2x"></i> 
     </a>
-  </li>
+  </ul>
 {% endif %}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
