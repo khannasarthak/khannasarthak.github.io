@@ -37,24 +37,24 @@ title: Blog
 </div> -->
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
     <ul>
     {% assign date = currentdate %}
   {% endif %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-
+<!-- 
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}<span class="post-date">{{ post.date | date_to_string }}</span></a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
 <!-- Pagination links -->
 <!-- <div class="pagination">
