@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Sarthak Khanna
+tagline:          ''
+description:      'Graduate student pursuing computer engineering'
+url:              khannasarthak.github.io
+baseurl:          /
+
+author:
+  name:           'Sarthak Khanna'
+  url:            khannasarthak.github.io
+twitter_username:     khannasarthak
+github_username:      khannasarthak
+linkedin_username:    sarthakkhanna
+# google_plus_username: AleksandarTodorovićr3bl
+# facebook_username:    
+# dribbble_username:
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/khannasarthak/khannasarthak.github.io
