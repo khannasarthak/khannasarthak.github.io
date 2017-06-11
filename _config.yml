@@ -16,11 +16,12 @@ baseurl:          /
 author:
   name:           'Sarthak Khanna'
   url:            khannasarthak.github.io
-twitter_username:     khannasarthak
+twitter_username:     
 github_username:      khannasarthak
 linkedin_username:    sarthakkhanna
 # google_plus_username: AleksandarTodorovićr3bl
-facebook_username:    khannasarthak.1994
+facebook_username:    
+email: khannasarthak.1994@gmail.com
 # dribbble_username:
 
 paginate:         5
