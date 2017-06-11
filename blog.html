@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-<div class="posts">
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -34,4 +34,13 @@ title: Blog
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
+<p>TEST</p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<p>TEST</p>
