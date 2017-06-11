@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sarthak
+title: Projects
 ---
 
 # hi
