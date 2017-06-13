@@ -9,12 +9,12 @@ Hi,i'm a graduate student pursuing computer engineering with a specialization in
 My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
 
 ---
-## Technical skills:
-+  Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
-+  Web  - HTML, CSS, JQuery, Bootstrap, MySQL
+### Technical skills:
+* Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
+* Web  - HTML, CSS, JQuery, Bootstrap, MySQL
 
 ---
-## Currently looking for
+### Currently looking for
 * **internship/co-op/full time** oppurtunities, preferably in the United States.
    
 
