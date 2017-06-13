@@ -1,6 +1,0 @@
----
-layout: page
-title: Experiences
----
-
-## Hello from the other side
