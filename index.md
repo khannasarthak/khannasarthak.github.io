@@ -15,5 +15,5 @@ For a more details please click [here]({{ site.url }}{% link about.md %}).
 
 Also, you can view my resume  [here]({{ site.baseurl }}{% link index.md %}).
 or contact me via email here
-{{ site.url }}{% link about.md %}
+{{ site.url }} WHOAAA {% link about.md %} WHOA {{ site.baseurl }}
 Currently looking for internship/co-op/ full time oppurtunities preferably in the United States. 
