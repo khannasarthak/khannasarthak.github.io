@@ -15,7 +15,7 @@ title: About
    * Developed marketing solutions to increase revenue and customer loyalty.
    * Maintained the technical infrastructure on a day to day basis.
 
-2. **Student Researcher ** at Creation Labs,, *Vellore (2013 -2015)*
+2. **Student Researcher** at Creation Labs,, *Vellore (2013 -2015)*
 
    * Engineered a home automation solution.
    * Developed multiplayer PC based games using Unreal Engine 3 and 4.
