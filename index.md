@@ -13,7 +13,7 @@ Main technical skills:
 
 Currently seeking internship/co-op/full time oppurtunities, preferably in the United States. 
 
-For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via [email.](khannasarthak.1994@gmail.com)
+For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via <a href="mailto:{{ site.email}}">email</a>
 
 View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
 
