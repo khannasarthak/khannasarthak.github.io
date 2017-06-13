@@ -5,21 +5,16 @@ title: Home
 <br><br><br>
 Hi,i'm a graduate student pursuing computer engineering with a specialization in computer systems at Arizona State University
 
-My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new things. 
+My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
 
 Main technical skills:
 +  Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
 +  Web  - HTML, CSS, JQuery, Bootstrap, MySQL
 
-For a more details please click [here](http://khannasarthak.github.io/about/).
+For more details see [bbout.](http://khannasarthak.github.io/about/).
 
-[Markdown resume](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}
+View my resume  [here.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}
 
-<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume</a>
-<a href="SarthakKhannaCV.pdf" target="_blank">Resume2</a>
+You can contact me via [email.](khannasarthak.1994@gmail)
 
-
-Also, you can view my resume  [here]({{ site.baseurl }}{% link index.md %}).
-or contact me via email here
-{{ site.url }}.about.md WHOAAA {% link about.md %} WHOA {{ site.baseurl }}
-Currently looking for internship/co-op/ full time oppurtunities preferably in the United States. 
+Currently seeking internship/co-op/full time oppurtunities, preferably in the United States. 
