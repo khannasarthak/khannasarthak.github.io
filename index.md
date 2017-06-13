@@ -2,16 +2,21 @@
 layout: default
 title: Home
 ---
-<br><br><br>
+
+---
 Hi,i'm a graduate student pursuing computer engineering with a specialization in computer systems at Arizona State University
 
 My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
 
-Main technical skills:
+---
+## Technical skills:
 +  Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
 +  Web  - HTML, CSS, JQuery, Bootstrap, MySQL
 
-Currently seeking **internship/co-op/full time** oppurtunities, preferably in the United States. 
+---
+## Currently looking for
+* **internship/co-op/full time** oppurtunities, preferably in the United States.
+   
 
 For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via email at <a href="mailto:{{ site.email}}">khannasarthak.1994@gmail.com</a>
 

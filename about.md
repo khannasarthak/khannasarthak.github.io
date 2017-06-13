@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+---
+## Education
+
 ---
 ## Experiences
 1. **Technical Lead (Developer)** at Stealth Gaming, *Vellore (2014 -2016)*
@@ -25,9 +25,11 @@ title: About
 
    * Learnt the basics in the working of wireless mobile ( GSM, CDMA, Internet Dongle).
    * Field experience in setting up a new base stations. 
-   * Worked on the backend using [TEMS](http://www.tems.com/) software.
+   * Worked on the backend using [TEMS](http://www.tems.com/){:target="_blank"} software.
    * Field visits to correct and troubleshoot customer grievances. 
 
+---
+## Accomplishments
 
 
 
