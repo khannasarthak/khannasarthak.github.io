@@ -4,6 +4,7 @@ title: About
 ---
 ---
 ## Education
+---
 * **Master of Science** (MS) *2016-Present*
 	* Major: Computer Engineering (Computer Systems)
 	* Arizona State University, Tempe, Arizona, USA
@@ -13,8 +14,9 @@ title: About
 	* Major: Electronics and Communications Engineering
 	* Vellore Institute of Technology (VIT), Tamil Nadu, India
 
----
+
 ## Experiences
+---
 1. **Technical Lead (Developer)** at Stealth Gaming, *Vellore (2014 -2016)*
 
    * A social gaming start-up, developed website and implemented a web based a user maintenance system.
