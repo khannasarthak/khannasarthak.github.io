@@ -13,7 +13,7 @@ Main technical skills:
 
 For a more details please click [here](http://khannasarthak.github.io/about/).
 
-
+[Markdown resume](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}
 
 <a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume</a>
 <a href="SarthakKhannaCV.pdf" target="_blank">Resume2</a>
