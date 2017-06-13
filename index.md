@@ -13,8 +13,12 @@ Main technical skills:
 
 For a more details please click [here](http://khannasarthak.github.io/about/).
 
-(http://203.0.113.0:4000/about/)
-[resume](http://khannasarthak.github.io/SarthakKhannaCV.pdf)
+
+
+<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume</a>
+<a href="SarthakKhannaCV.pdf" target="_blank">Resume2</a>
+
+
 Also, you can view my resume  [here]({{ site.baseurl }}{% link index.md %}).
 or contact me via email here
 {{ site.url }}.about.md WHOAAA {% link about.md %} WHOA {{ site.baseurl }}
