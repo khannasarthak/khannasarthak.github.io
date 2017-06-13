@@ -11,7 +11,7 @@ Main technical skills:
 +  Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
 +  Web  - HTML, CSS, JQuery, Bootstrap, MySQL
 
-For a more details please click [here]({{ site.url }}/about.md).
+For a more details please click [here](khannasarthak.github.io/about.md).
 
 Also, you can view my resume  [here]({{ site.baseurl }}{% link index.md %}).
 or contact me via email here
