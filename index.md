@@ -9,12 +9,13 @@ My main interests are web technologies, machine learning and data sciences. I'm 
 
 Main technical skills:
 +  Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
-+  Web  - HTML, CSS, JQuery, Bootstrap, MySQL
-
-For more details see [bbout.](http://khannasarthak.github.io/about/).
-
-View my resume  [here.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}
-
-You can contact me via [email.](khannasarthak.1994@gmail)
++  Web  - HTML, CSS, JQuery, Bootstrap, MySQL\
 
 Currently seeking internship/co-op/full time oppurtunities, preferably in the United States. 
+
+For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via [email.](khannasarthak.1994@gmail.com)
+
+View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
+
+
+
