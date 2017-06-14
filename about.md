@@ -17,12 +17,13 @@ title: About
 ## Experiences
 1. **Technical Lead (Developer)** at Stealth Gaming, *Vellore (2014 -2016)*
 
-   * A social gaming start-up, developed website and implemented a web based a user maintenance system.
+   * A social gaming start-up, developed the website and implemented a web based user maintenance system.
    * Quoted and procured computer infrastructure for setting up gaming systems for the lounge.
-   * Developed marketing solutions to increase revenue and customer loyalty.
    * Maintained the technical infrastructure on a day to day basis.
+   * Developed marketing solutions to increase revenue and customer loyalty.
+   
 
-2. **Student Researcher** at Creation Labs,, *Vellore (2013 -2015)*
+2. **Student Researcher** at Creation Labs, *VIT Vellore (2013 -2015)*
 
    * Engineered a home automation solution.
    * Developed multiplayer PC based games using Unreal Engine 3 and 4.
@@ -30,14 +31,18 @@ title: About
 
 3. **Summer Intern** at Tata Teleservices Ltd, *Mumbai (2014)*
 
-   * Learnt the basics in the working of wireless mobile ( GSM, CDMA, Internet Dongle).
+   * Learnt the basics in the working of wireless mobile (GSM, CDMA).
    * Field experience in setting up a new base stations. 
    * Worked on the backend using [TEMS](http://www.tems.com/){:target="_blank"} software.
    * Field visits to correct and troubleshoot customer grievances. 
 
+4. **Head of Technology** at Technology and Gaming Club ([TAG](https://www.facebook.com/tagvitu){:target="_blank"}) , *VIT Vellore (2014 -2015)*
+
+   * One of the founding memebers of the student club, 
+   * Mentored junior and worked with fellow members to create projects and deliver talks and seminars on technical topics ( Game Developemtn, Web development, Wordpress, Python to name a few).
+   * Organised one of the biggest gaming tournaments in the college - Game A Thon. 
+   
 ---
 ## Accomplishments
-
-
 
 
