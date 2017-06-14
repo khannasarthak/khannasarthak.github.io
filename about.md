@@ -50,7 +50,7 @@ title: About
 ## Hobbies
 
 * Reading fiction and biographies
-* Occasionally playing my guitar
+* Occasionally playing the guitar
 * Computer games
 
 
