@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Titanic and shit
-date:   2014-11-17 16:16:01 -0600
-categories: test
+date:   2015-11-17 16:16:01 -0600
+categories: jekyll update
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
