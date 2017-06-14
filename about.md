@@ -38,9 +38,9 @@ title: About
 
 4. **Head of Technology** at Technology and Gaming Club ([TAG](https://www.facebook.com/tagvitu){:target="_blank"}) , *VIT Vellore (2014 -2015)*
 
-   * One of the founding memebers of the student club, 
-   * Mentored junior and worked with fellow members to create projects and deliver talks and seminars on technical topics ( Game Developemtn, Web development, Wordpress, Python to name a few).
-   * Organised one of the biggest gaming tournaments in the college - Game A Thon. 
+   * One of the founding members of the student club.
+   * Mentored juniors and worked with fellow members to create projects, deliver talks and seminars on various topics like Game Development, Web development and Python to name a few.
+   * Organised one of the biggest college gaming tournaments in the country - Game A Thon, during the college festival. 
    
 ---
 ## Accomplishments
