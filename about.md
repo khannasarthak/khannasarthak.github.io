@@ -40,9 +40,17 @@ title: About
 
    * One of the founding members of the student club.
    * Mentored juniors and worked with fellow members to create projects, deliver talks and seminars on various topics like Game Development, Web development and Python to name a few.
-   * Organised one of the biggest college gaming tournaments in the country - Game A Thon, during the college festival. 
+   * Organised one of the biggest college gaming tournaments in the country, Game-A-Thon, during the college festival. 
    
 ---
 ## Accomplishments
+
+
+---
+## Hobbies
+
+* Reading fiction and biographies
+* Occasionally playing my guitar
+* Computer games
 
 
