@@ -55,7 +55,7 @@ title: Projects
    * Based on persistence of vision. 
    * Created the propeller which has an array of LED's, which give the illusion of an actual clock.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
-   *[Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk)
+   * [Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk)
 
 ---
 * **Notifier and Connectifier**, *VIT 2014*
