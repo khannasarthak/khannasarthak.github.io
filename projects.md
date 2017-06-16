@@ -43,7 +43,7 @@ title: Projects
    * [Watch the demo](https://www.youtube.com/watch?v=yN54R70IJyU)
 
 ---
-* **Game Development using Unreal Development Kit **, *VIT 2014*
+* **Game Development using Unreal Development Kit**, *VIT 2014*
 
    * Made two levels of a 3-D puzzler game.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
@@ -55,6 +55,7 @@ title: Projects
    * Based on persistence of vision. 
    * Created the propeller which has an array of LED's, which give the illusion of an actual clock.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
+   *[Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk)
 
 ---
 * **Notifier and Connectifier**, *VIT 2014*
