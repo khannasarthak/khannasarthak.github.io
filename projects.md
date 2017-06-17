@@ -4,14 +4,14 @@ title: Projects
 ---
 
 ---
-* **Theater Management system**, *ASU 2017*
+* [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, *ASU 2017*
 
    * Built the web application from scratch using python flask and MySQL. 
    * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
    * Generated the dummy data using python faker library.
    
 ---
-* **Airbnb New User Bookings Prediction**, *ASU 2016*
+* [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, *ASU 2016*
 
    * Processed raw data, making it usable for further analysis using the python pandas library.
    * Performed feature engineering and statistical analysis of the data obtaining relevant insights using scikit-learn.
@@ -19,24 +19,31 @@ title: Projects
    * Analyzed blended ensembles’ performance versus traditional classifiers
 
 ---
-* **Naïve Bayes, K-NN, K-means implementation**, *ASU 2016*
+* [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, *ASU 2016*
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
-* **Stuttered Speech Recognition**, *VIT 2016*
+* [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, *VIT 2016*
 
    * Modified an existing algorithm to facilitate speech recognition for people suffering from stuttering.
    * Performed audio processing and stutter removal in Matlab.
    * Designed a neural network to learn from training samples to remove stutter from new test inputs in python, this new audio was then passed to the Google speech API to be recognized without the stutter.
 
 ---
-* [**Digit recognition using Matlab**](http://khannasarthak.github.io/Digit-Recognition-using-Neural-Networks/){:target="_blank"}, *VIT 2015*
+* [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, *VIT 2015*
 
    * Created a backward propagation neural network to recognize hand written digits using Matlab.
    * Used the MNIST database to train the neural net.
 
 ---
-* ** Home Automation System**, *VIT 2014*
+* [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+
+   * Created a website for a local business (gaming lounge called Rock n Rollas) using HTML, CSS , Jquery and BootStrap Responsive frame work.
+   * Also set up domains, servers, facebook pages.
+   * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
+
+---
+* **Home Automation System**, *VIT 2014*
 
    * The main idea was to make a modular home automation system. 
    * As proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
@@ -66,7 +73,7 @@ title: Projects
    * [Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}
 
 ---
-* **Notifier and Connectifier**, *VIT 2014*
+* [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, *VIT 2014*
 
    * Prototyped a cost effective Google glass alternative using the center piece of a Sony smart watch, basic principles of reflection and refraction. 
    * The frame was made using PVC pipes connected on top of a traditional spectacle frame.
@@ -81,3 +88,5 @@ title: Projects
    * All these were connected using bluetooth using Zigbee and utilizing the power of the Arduino board. 
    * The readings were visible on a simple mobile app. 
    * This device was made at a hackathon organized by CAMTech.
+
+
