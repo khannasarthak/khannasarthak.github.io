@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+Click the project names to open code repositories or demos.
+
 ---
 * [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, *ASU 2017*
 
@@ -39,7 +41,7 @@ title: Projects
 * [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
 
    * Created a website for a local business (gaming lounge called Rock n Rollas) using HTML, CSS , Jquery and BootStrap Responsive frame work.
-   * Also set up domains, servers, facebook pages.
+   * Set up domains, servers, facebook pages.
    * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
 
 ---
