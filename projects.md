@@ -30,24 +30,32 @@ title: Projects
    * Designed a neural network to learn from training samples to remove stutter from new test inputs in python, this new audio was then passed to the Google speech API to be recognized without the stutter.
 
 ---
-* **Digit recognition using Matlab**, *VIT 2015*
+* [**Digit recognition using Matlab**](http://khannasarthak.github.io/Digit-Recognition-using-Neural-Networks/){:target="_blank"}, *VIT 2015*
 
    * Created a backward propagation neural network to recognize hand written digits using Matlab.
    * Used the MNIST database to train the neural net.
+
+---
+* ** Home Automation System**, *VIT 2014*
+
+   * The main idea was to make a modular home automation system. 
+   * As proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
+   * Arduino, Xigbee, NFC and WiFi modules were used to create the network and MIT app inventor to create the prototype mobile app.
+   * This was made at a Honeywell Hackathon, this idea was selected among the top 10 and we were given a chance to go to Honeywell Bangalore  to meet prospective VC's and showcase our creation.
 
 ---
 * **Game Development using Unreal Engine 4**, *VIT 2014*
 
    * Created an online/ LAN multi player 3rd person shooter game.
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
-   * [Watch the demo](https://www.youtube.com/watch?v=yN54R70IJyU)
+   * [Watch the demo](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}
 
 ---
 * **Game Development using Unreal Development Kit**, *VIT 2014*
 
    * Made two levels of a 3-D puzzler game.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
-   * [Watch the demo](https://www.youtube.com/watch?v=fN8PgJOeTRU)
+   * [Watch the demo](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}
 
 ---
 * **Propeller Clock**, *VIT 2014*
@@ -55,7 +63,7 @@ title: Projects
    * Based on persistence of vision. 
    * Created the propeller which has an array of LED's, which give the illusion of an actual clock.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
-   * [Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk)
+   * [Watch the demo](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}
 
 ---
 * **Notifier and Connectifier**, *VIT 2014*
@@ -72,4 +80,4 @@ title: Projects
    * Used temperature sensor and developed a heart rate monitor as well. 
    * All these were connected using bluetooth using Zigbee and utilizing the power of the Arduino board. 
    * The readings were visible on a simple mobile app. 
-   * This device was made at a hackathon organized by CAMTech. 
+   * This device was made at a hackathon organized by CAMTech.
