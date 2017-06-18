@@ -4,12 +4,13 @@ title: Home
 ---
 
 ---
-Hi,i'm a graduate student pursuing computer engineering with a specialization in computer systems at Arizona State University
+Hi,i'm a graduate student pursuing computer engineering, specializing in computer systems at Arizona State University.
 
 My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
 
 ---
 ### Technical skills:
+* 
 * Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
 * Web  - HTML, CSS, JQuery, Bootstrap, MySQL
 
