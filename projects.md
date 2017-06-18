@@ -38,6 +38,12 @@ Click the project names to open code repositories or demos.
    * Used the MNIST database to train the neural net.
 
 ---
+* [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+
+   * An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.
+   * Created a dummy web app to showcase the possibilities of the idea. 
+
+---
 * [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
 
    * Created a website for a local business (gaming lounge called Rock n Rollas) using HTML, CSS , Jquery and BootStrap Responsive frame work.

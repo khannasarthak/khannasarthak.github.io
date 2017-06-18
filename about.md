@@ -46,6 +46,12 @@ title: About
 ---
 ## Accomplishments
 
+* **Runner's Up at WeHack** - *an Internet of Things based hackathon*
+	* The idea was to provide smart and calculated decisions based on already available user data. 
+	* The hackathon was organised by VIT Universiry in association with Harvard and Massachusetts General Hospital.
+	* Project name: Polygone - Internet of Things
+
+
 
 ---
 ## Hobbies
