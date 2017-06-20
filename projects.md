@@ -50,6 +50,7 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
+
 *An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.*
 
    * Created a dummy web app to showcase the possibilities of the idea.
@@ -67,17 +68,16 @@ Click the project names to open code repositories or demos.
 ---
 * **Home Automation System**, 2014
 
-**
+*This concept is a modular home automation system with available add on's.*
 
-   * The main idea was to make a modular home automation system. 
-   * As proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
+   * The project consisted of making a prototype as proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
    * Arduino, Xigbee, NFC and WiFi modules were used to create the network and MIT app inventor to create the prototype mobile app.
    * This was made at a Honeywell Hackathon, this idea was selected among the top 10 and we were given a chance to go to Honeywell Bangalore  to meet prospective VC's and showcase our creation.
 
 ---
 * [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
 
-*A LAN multi player 3rd person shooter game.*
+*A LAN multi player 3rd person shooter game.* 
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
@@ -110,7 +110,7 @@ Click the project names to open code repositories or demos.
 ---
 * **Baby Vitals Monitoring**, 2014
 
-**
+*Created low-cost sensor network to monitor neonatal vital signs.*
 
    * Developed an ingenious heart rate sensor using a plastic bottle cap and a ball point pen spring.
    * Used temperature sensor and developed a heart rate monitor as well. 

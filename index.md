@@ -8,6 +8,8 @@ Hi,i'm a graduate student pursuing computer engineering, specializing in compute
 
 My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
 
+Have a look at my [projects](http://khannasarthak.github.io/projects/)
+
 ---
 ### Technical skills:
 * 
