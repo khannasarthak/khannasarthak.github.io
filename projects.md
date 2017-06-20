@@ -7,6 +7,7 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, *ASU 2017*
+A project with the functionality of managing a multiplex with multiple screens.
 
    * Built the web application from scratch using python flask and MySQL. 
    * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
@@ -14,6 +15,7 @@ Click the project names to open code repositories or demos.
    
 ---
 * [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, *ASU 2016*
+Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)
 
    * Processed raw data, making it usable for further analysis using the python pandas library.
    * Performed feature engineering and statistical analysis of the data obtaining relevant insights using scikit-learn.
@@ -22,10 +24,13 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, *ASU 2016*
+Implementation of the algorithms on standard data sets.
+
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
 * [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, *VIT 2016*
+B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to google voice API for recognition.
 
    * Modified an existing algorithm to facilitate speech recognition for people suffering from stuttering.
    * Performed audio processing and stutter removal in Matlab.
@@ -33,8 +38,9 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, *VIT 2015*
+Created a neural network to recognize hand written digits.
 
-   * Created a backward propagation neural network to recognize hand written digits using Matlab.
+   * Programmed a backward propagation neural network to recognize hand written digits using Matlab.
    * Used the MNIST database to train the neural net.
 
 ---
@@ -43,10 +49,11 @@ Click the project names to open code repositories or demos.
    * An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.
    * Created a dummy web app to showcase the possibilities of the idea. 
 
----
+ ---
 * [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+Created a website for a local business (gaming lounge called Rock n Rollas).
 
-   * Created a website for a local business (gaming lounge called Rock n Rollas) using HTML, CSS , Jquery and BootStrap Responsive frame work.
+   * Used HTML, CSS , Jquery and BootStrap Responsive frame work.
    * Set up domains, servers, facebook pages.
    * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
 
@@ -60,12 +67,13 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, *VIT 2014*
+Made an online/ LAN multi player 3rd person shooter game.
 
-   * Created an online/ LAN multi player 3rd person shooter game.
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
 ---
 * [**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, *VIT 2014*
+The project was a third person puzzler game made on unreal development kit.
 
    * Made two levels of a 3-D puzzler game.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
@@ -79,8 +87,9 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, *VIT 2014*
+Prototyped a cost effective Google glass alternative.
 
-   * Prototyped a cost effective Google glass alternative using the center piece of a Sony smart watch, basic principles of reflection and refraction. 
+   * Used the center piece of a Sony smart watch, basic principles of reflection and refraction. 
    * The frame was made using PVC pipes connected on top of a traditional spectacle frame.
    * Capacitive buttons on the the smart watch were extended using conductive fiber to give the user easy control.
    * The project was created in under 24 hours at a college hackathon.
