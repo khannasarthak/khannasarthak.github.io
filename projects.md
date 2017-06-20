@@ -7,6 +7,7 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, *ASU 2017*
+
 A project with the functionality of managing a multiplex with multiple screens.
 
    * Built the web application from scratch using python flask and MySQL. 
@@ -15,6 +16,7 @@ A project with the functionality of managing a multiplex with multiple screens.
    
 ---
 * [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, *ASU 2016*
+
 Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)
 
    * Processed raw data, making it usable for further analysis using the python pandas library.
@@ -24,12 +26,14 @@ Predicts the first booking that a completely new user will make upon coming in a
 
 ---
 * [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, *ASU 2016*
+
 Implementation of the algorithms on standard data sets.
 
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
 * [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, *VIT 2016*
+
 B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to google voice API for recognition.
 
    * Modified an existing algorithm to facilitate speech recognition for people suffering from stuttering.
@@ -38,6 +42,7 @@ B.Tech final year project, designed algorithm to remove stuttering from a voice 
 
 ---
 * [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, *VIT 2015*
+
 Created a neural network to recognize hand written digits.
 
    * Programmed a backward propagation neural network to recognize hand written digits using Matlab.
@@ -51,6 +56,7 @@ Created a neural network to recognize hand written digits.
 
  ---
 * [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+
 Created a website for a local business (gaming lounge called Rock n Rollas).
 
    * Used HTML, CSS , Jquery and BootStrap Responsive frame work.
@@ -67,12 +73,14 @@ Created a website for a local business (gaming lounge called Rock n Rollas).
 
 ---
 * [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, *VIT 2014*
+
 Made an online/ LAN multi player 3rd person shooter game.
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
 ---
 * [**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, *VIT 2014*
+
 The project was a third person puzzler game made on unreal development kit.
 
    * Made two levels of a 3-D puzzler game.
@@ -87,6 +95,7 @@ The project was a third person puzzler game made on unreal development kit.
 
 ---
 * [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, *VIT 2014*
+
 Prototyped a cost effective Google glass alternative.
 
    * Used the center piece of a Sony smart watch, basic principles of reflection and refraction. 
