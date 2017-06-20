@@ -8,7 +8,7 @@ Click the project names to open code repositories or demos.
 ---
 * [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
 
-A project with the functionality of managing a multiplex with multiple screens.
+*A project with the functionality of managing a multiplex with multiple screens.*
 
    * Built the web application from scratch using python flask and MySQL. 
    * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
@@ -17,7 +17,7 @@ A project with the functionality of managing a multiplex with multiple screens.
 ---
 * [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
 
-Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)
+*Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)*
 
    * Processed raw data, making it usable for further analysis using the python pandas library.
    * Performed feature engineering and statistical analysis of the data obtaining relevant insights using scikit-learn.
@@ -27,7 +27,7 @@ Predicts the first booking that a completely new user will make upon coming in a
 ---
 * [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
 
-Implementation of the algorithms on standard data sets.
+*Implementation of the algorithms on standard data sets.*
 
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
