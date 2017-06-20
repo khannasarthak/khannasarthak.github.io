@@ -8,7 +8,7 @@ Click the project names to open code repositories or demos.
 ---
 * [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
 
-*A project with the functionality of managing a multiplex with multiple screens.*
+*A project to manage movie screenings, performances, bookings and customer data for a multiplex.*
 
    * Built the web application from scratch using python flask and MySQL. 
    * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
@@ -17,7 +17,7 @@ Click the project names to open code repositories or demos.
 ---
 * [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
 
-*Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)*
+*The project predicts the first booking that a completely new user will make upon visiting airbnb's website. (Kaggle problem statement)*
 
    * Processed raw data, making it usable for further analysis using the python pandas library.
    * Performed feature engineering and statistical analysis of the data obtaining relevant insights using scikit-learn.
@@ -27,14 +27,14 @@ Click the project names to open code repositories or demos.
 ---
 * [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
 
-*Implementation of the algorithms on standard data sets.*
+*Implementation of the said algorithms on standard data sets.*
 
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
 * [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, 2016
 
-*B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to google voice API for recognition.*
+*B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to Google voice API for recognition.*
 
    * Modified an existing algorithm to facilitate speech recognition for people suffering from stuttering.
    * Performed audio processing and stutter removal in Matlab.
@@ -50,9 +50,10 @@ Click the project names to open code repositories or demos.
 
 ---
 * [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
+*An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.*
 
-   * An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.
-   * Created a dummy web app to showcase the possibilities of the idea. 
+   * Created a dummy web app to showcase the possibilities of the idea.
+   * The project was awarded the second place in the hackathon it was formulated.
 
  ---
 * [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
@@ -66,6 +67,8 @@ Click the project names to open code repositories or demos.
 ---
 * **Home Automation System**, 2014
 
+**
+
    * The main idea was to make a modular home automation system. 
    * As proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
    * Arduino, Xigbee, NFC and WiFi modules were used to create the network and MIT app inventor to create the prototype mobile app.
@@ -74,7 +77,7 @@ Click the project names to open code repositories or demos.
 ---
 * [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
 
-*Made an online/ LAN multi player 3rd person shooter game.*
+*A LAN multi player 3rd person shooter game.*
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
@@ -89,7 +92,8 @@ Click the project names to open code repositories or demos.
 ---
 * [**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, 2014
 
-   * Based on persistence of vision. 
+*Based on the principle of persistence of vision, the project displays an analog clock on an array of rotating LED's.*
+ 
    * Created the propeller which has an array of LED's, which give the illusion of an actual clock.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
 
@@ -105,6 +109,8 @@ Click the project names to open code repositories or demos.
 
 ---
 * **Baby Vitals Monitoring**, 2014
+
+**
 
    * Developed an ingenious heart rate sensor using a plastic bottle cap and a ball point pen spring.
    * Used temperature sensor and developed a heart rate monitor as well. 
