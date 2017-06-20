@@ -105,6 +105,7 @@ Click the project names to open code repositories or demos.
    * Used the center piece of a Sony smart watch, basic principles of reflection and refraction. 
    * The frame was made using PVC pipes connected on top of a traditional spectacle frame.
    * Capacitive buttons on the the smart watch were extended using conductive fiber to give the user easy control.
+   * The glass can be paired with any bluetooth enabled smart phone.
    * The project was created in under 24 hours at a college hackathon.
 
 ---
