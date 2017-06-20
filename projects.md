@@ -6,7 +6,7 @@ title: Projects
 Click the project names to open code repositories or demos.
 
 ---
-* [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, *ASU 2017*
+* [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
 
 A project with the functionality of managing a multiplex with multiple screens.
 
@@ -15,7 +15,7 @@ A project with the functionality of managing a multiplex with multiple screens.
    * Generated the dummy data using python faker library.
    
 ---
-* [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, *ASU 2016*
+* [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
 
 Predicts the first booking that a completely new user will make upon coming in airbnb's website. (Kaggle problem statement)
 
@@ -25,7 +25,7 @@ Predicts the first booking that a completely new user will make upon coming in a
    * Analyzed blended ensembles’ performance versus traditional classifiers
 
 ---
-* [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, *ASU 2016*
+* [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
 
 Implementation of the algorithms on standard data sets.
 
