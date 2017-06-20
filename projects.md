@@ -32,39 +32,39 @@ Click the project names to open code repositories or demos.
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
-* [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, *VIT 2016*
+* [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, 2016
 
-B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to google voice API for recognition.
+*B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to google voice API for recognition.*
 
    * Modified an existing algorithm to facilitate speech recognition for people suffering from stuttering.
    * Performed audio processing and stutter removal in Matlab.
    * Designed a neural network to learn from training samples to remove stutter from new test inputs in python, this new audio was then passed to the Google speech API to be recognized without the stutter.
 
 ---
-* [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, *VIT 2015*
+* [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, 2015
 
-Created a neural network to recognize hand written digits.
+*Created a neural network to recognize hand written digits.*
 
    * Programmed a backward propagation neural network to recognize hand written digits using Matlab.
    * Used the MNIST database to train the neural net.
 
 ---
-* [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+* [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
 
    * An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.
    * Created a dummy web app to showcase the possibilities of the idea. 
 
  ---
-* [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, *VIT 2015*
+* [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
 
-Created a website for a local business (gaming lounge called Rock n Rollas).
+*Created a website for a local business (gaming lounge called Rock n Rollas).*
 
    * Used HTML, CSS , Jquery and BootStrap Responsive frame work.
    * Set up domains, servers, facebook pages.
    * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
 
 ---
-* **Home Automation System**, *VIT 2014*
+* **Home Automation System**, 2014
 
    * The main idea was to make a modular home automation system. 
    * As proof of concept, a temperature controller was made, where the user could regulate the temperature using a mobile app. 
@@ -72,31 +72,31 @@ Created a website for a local business (gaming lounge called Rock n Rollas).
    * This was made at a Honeywell Hackathon, this idea was selected among the top 10 and we were given a chance to go to Honeywell Bangalore  to meet prospective VC's and showcase our creation.
 
 ---
-* [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, *VIT 2014*
+* [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
 
-Made an online/ LAN multi player 3rd person shooter game.
+*Made an online/ LAN multi player 3rd person shooter game.*
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
 ---
-* [**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, *VIT 2014*
+* [**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, 2014
 
-The project was a third person puzzler game made on unreal development kit.
+*The project was a third person puzzler game made on unreal development kit.*
 
    * Made two levels of a 3-D puzzler game.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
 
 ---
-* [**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, *VIT 2014*
+* [**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, 2014
 
    * Based on persistence of vision. 
    * Created the propeller which has an array of LED's, which give the illusion of an actual clock.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
 
 ---
-* [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, *VIT 2014*
+* [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, 2014
 
-Prototyped a cost effective Google glass alternative.
+*Prototyped a cost effective Google glass alternative.*
 
    * Used the center piece of a Sony smart watch, basic principles of reflection and refraction. 
    * The frame was made using PVC pipes connected on top of a traditional spectacle frame.
@@ -104,7 +104,7 @@ Prototyped a cost effective Google glass alternative.
    * The project was created in under 24 hours at a college hackathon.
 
 ---
-* **Baby Vitals Monitoring**, *VIT 2014*
+* **Baby Vitals Monitoring**, 2014
 
    * Developed an ingenious heart rate sensor using a plastic bottle cap and a ball point pen spring.
    * Used temperature sensor and developed a heart rate monitor as well. 
