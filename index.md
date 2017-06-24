@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
 ---
@@ -10,7 +11,7 @@ My main interests are web technologies, machine learning and data sciences. I'm 
 
 Have a look at my [projects](http://khannasarthak.github.io/projects/)
 
-Pushed from git kraken
+Pushed from git kraken. From Prose.io
 
 ---
 ### Technical skills:
@@ -26,6 +27,3 @@ Pushed from git kraken
 For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via email at <a href="mailto:{{ site.email}}">khannasarthak.1994@gmail.com</a>
 
 View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
-
-
-
