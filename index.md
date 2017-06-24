@@ -10,6 +10,8 @@ My main interests are web technologies, machine learning and data sciences. I'm 
 
 Have a look at my [projects](http://khannasarthak.github.io/projects/)
 
+Pushed from git kraken
+
 ---
 ### Technical skills:
 * 
