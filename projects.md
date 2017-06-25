@@ -49,7 +49,7 @@ Click the project names to open code repositories or demos.
    * Used the MNIST database to train the neural net.
 
 ---
-* [**Polygone - Internet of Things**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
+* [**Polygone - Internet of Things**](https://github.com/khannasarthak/weHack2015LiftBoys){:target="_blank"}, 2015
 
 *An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.*
 
