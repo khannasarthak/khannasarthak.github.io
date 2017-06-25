@@ -8,6 +8,7 @@ title: About
 * **Master of Science** (MS) *2016-Present*
 	* Major: Computer Engineering (Computer Systems)
 	* Arizona State University, Tempe, Arizona, USA
+	* Related Courses - Foundations of Algorithms, Statistical Machine Learning, Software Security, Database Management
 
 
 * **Bachelor of Technology** (B.Tech) *2012-2016*

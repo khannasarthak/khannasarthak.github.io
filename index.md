@@ -5,19 +5,19 @@ published: true
 ---
 
 ---
-Hi,i'm a graduate student pursuing computer engineering, specializing in computer systems at Arizona State University.
+Hi,i'm a graduate student pursuing computer engineering, specializing in computer systems at Arizona State University. ( need to improve this)
 
-My main interests are web technologies, machine learning and data sciences. I'm still exploring and looking to experiment with new fields. 
+My main interests are data science, machine learning and web technologies. I'm still exploring and looking to experiment with new fields. ( polish it, show more emphasis on software development)
 
-Have a look at my [projects](http://khannasarthak.github.io/projects/)
+I've done various [projects](http://khannasarthak.github.io/projects/) ranging from hardware embedded systems to standalone web apps.[Have a look!](http://khannasarthak.github.io/projects/)   ( name a few technologies youve worked on here.)
 
-Pushed from git kraken. From Prose.io
 
 ---
 ### Technical skills:
-* 
+
 * Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
 * Web  - HTML, CSS, JQuery, Bootstrap, MySQL
+* Misc - Git, Linux, Matlab
 
 ---
 ### Currently looking for
