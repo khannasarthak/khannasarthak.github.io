@@ -6,7 +6,7 @@ title: Projects
 Click the project names to open code repositories or demos.
 
 ---
-* [**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
+[**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
 
 *A project to manage movie screenings, performances, bookings and customer data for a multiplex.*
 
@@ -15,7 +15,7 @@ Click the project names to open code repositories or demos.
    * Generated the dummy data using python faker library.
    
 ---
-* [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
+[**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
 
 *The project predicts the first booking that a completely new user will make upon visiting airbnb's website. (Kaggle problem statement)*
 
@@ -25,14 +25,14 @@ Click the project names to open code repositories or demos.
    * Analyzed blended ensembles’ performance versus traditional classifiers
 
 ---
-* [**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
+[**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
 
 *Implementation of the said algorithms on standard data sets.*
 
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
-* [**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, 2016
+[**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, 2016
 
 *B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to Google voice API for recognition.*
 
@@ -41,7 +41,7 @@ Click the project names to open code repositories or demos.
    * Designed a neural network to learn from training samples to remove stutter from new test inputs in python, this new audio was then passed to the Google speech API to be recognized without the stutter.
 
 ---
-* [**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, 2015
+[**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, 2015
 
 *Created a neural network to recognize hand written digits.*
 
@@ -49,7 +49,7 @@ Click the project names to open code repositories or demos.
    * Used the MNIST database to train the neural net.
 
 ---
-* [**Polygone - Internet of Things**](https://github.com/khannasarthak/weHack2015LiftBoys){:target="_blank"}, 2015
+[**Polygone - Internet of Things**](https://github.com/khannasarthak/weHack2015LiftBoys){:target="_blank"}, 2015
 
 *An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.*
 
@@ -57,7 +57,7 @@ Click the project names to open code repositories or demos.
    * The project was awarded the second place in the hackathon it was formulated.
 
  ---
-* [**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
+[**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
 
 *Created a website for a local business (gaming lounge called Rock n Rollas).*
 
@@ -90,7 +90,7 @@ Click the project names to open code repositories or demos.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
 
 ---
-* [**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, 2014
+[**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, 2014
 
 *Based on the principle of persistence of vision, the project displays an analog clock on an array of rotating LED's.*
  
@@ -98,7 +98,7 @@ Click the project names to open code repositories or demos.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
 
 ---
-* [**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, 2014
+[**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, 2014
 
 *Prototyped a cost effective Google glass alternative.*
 
@@ -109,7 +109,7 @@ Click the project names to open code repositories or demos.
    * The project was created in under 24 hours at a college hackathon.
 
 ---
-* **Baby Vitals Monitoring**, 2014
+**Baby Vitals Monitoring**, 2014
 
 *Created low-cost sensor network to monitor neonatal vital signs.*
 
