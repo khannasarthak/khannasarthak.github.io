@@ -66,7 +66,7 @@ Click the project names to open code repositories or demos.
    * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
 
 ---
-* **Home Automation System**, 2014
+**Home Automation System**, 2014
 
 *This concept is a modular home automation system with available add on's.*
 
@@ -75,14 +75,14 @@ Click the project names to open code repositories or demos.
    * This was made at a Honeywell Hackathon, this idea was selected among the top 10 and we were given a chance to go to Honeywell Bangalore  to meet prospective VC's and showcase our creation.
 
 ---
-* [**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
+[**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
 
 *A LAN multi player 3rd person shooter game.* 
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
 ---
-* [**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, 2014
+[**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, 2014
 
 *The project was a third person puzzler game made on unreal development kit.*
 
