@@ -21,7 +21,7 @@ View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target=
 * Misc - Git, Linux, Matlab, C
 
 ---
-Currently looking for **internship/co-op/full time** oppurtunities, preferably in the United States.
+Currently seeking **internship/co-op/full time** oppurtunities, preferably in the United States.
    
 
 For more details see [about.](http://khannasarthak.github.io/about/) and you can contact me via email at <a href="mailto:{{ site.email}}">**khannasarthak.1994@gmail.com**</a>
@@ -29,10 +29,10 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
 Social Media:   
 
    <ul> <a href="https://github.com/{{ site.github_username }}" target="_blank">
-      <i class="fa fa-github fa-2x"></i> 
+      <i class="fa fa-github fa-2x">Github</i> 
     </a>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
-      <i class="fa fa-linkedin fa-2x"></i> 
+      <i class="fa fa-linkedin fa-2x">Linkedin</i> 
     </a></ul>
 
   
