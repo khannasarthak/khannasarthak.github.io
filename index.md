@@ -4,6 +4,7 @@ title: Home
 published: true
 ---
 
+
 Hi,i'm a graduate student studying computer engineering, specializing in computer systems at Arizona State University. ( need to improve this)
 
 My main interests are data science, machine learning and web technologies. I'm still exploring and looking to experiment with new fields like software development. ( polish it, show more emphasis on software development). 
@@ -11,6 +12,7 @@ My main interests are data science, machine learning and web technologies. I'm s
 I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to standalone web apps.[Have a look!](http://khannasarthak.github.io/projects/).  ( name a few technologies youve worked on here.)
 
 View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
+
 ---
 ### Technical skills:
 
