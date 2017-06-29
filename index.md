@@ -29,13 +29,19 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
 Social Media:   
 
    <ul>Github <a href="https://github.com/{{ site.github_username }}" target="_blank">
-      <i class="fa fa-github fa-2x"></i> 
+      <i class="fa fa-github fa-x"></i> 
     </a>
     Linkedin<a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
-      <i class="fa fa-linkedin fa-2x">Linkedin</i> 
-    </a></ul>
+      <i class="fa fa-linkedin fa-x"></i> 
+    </a>
+    Email<a href="mailto:{{ site.email}}">
+      <i class="fa fa-envelope fa-x"></i> 
+    </a>
+    Resume<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank"
+    <i class="fa fa-file-text-o fa-x"></i>
+    </a>
+    </ul>
 
-  
 
 
-View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
+
