@@ -26,7 +26,7 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
 ---
 #### Social Media:   
 
-   <ul><a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
+<ul><a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
       <i class="fa fa-github fa-lg fa-border"></i> 
     </a> •
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">Linkedin
