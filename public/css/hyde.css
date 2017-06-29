@@ -114,6 +114,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+#social {
+  padding : 0 !important;
+}
 
 /* Container
  *
