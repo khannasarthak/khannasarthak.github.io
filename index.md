@@ -23,7 +23,7 @@ I've done various [projects](http://khannasarthak.github.io/projects/), ranging 
 ---
 For more details see [about.](http://khannasarthak.github.io/about/) You can also contact me via email at <a href="mailto:{{ site.email}}">**khannasarthak.1994@gmail.com**</a>
 
-<ul><a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
+<a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
 <i class="fa fa-github fa-lg fa-border"></i> 
 </a> •
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">Linkedin
@@ -41,7 +41,7 @@ For more details see [about.](http://khannasarthak.github.io/about/) You can als
 <a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume
 <i class="fa fa-file-text-o fa-lg fa-border"></i>
 </a> 
-</ul>
+
    
 ---
 Social Links:
