@@ -14,6 +14,7 @@ title: About
 * **Bachelor of Technology** (B.Tech) *2012-2016*
 	* Major: Electronics and Communications Engineering
 	* Vellore Institute of Technology (VIT), Tamil Nadu, India
+	
 
 ---
 ## Experiences
