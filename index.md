@@ -38,6 +38,12 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
     Resume<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">
     <i class="fa fa-file-text-o fa-lg fa-border"></i>
     </a>
+    Facebook<a href="https://www.facebook.com/khannasarthak94" target="_blank">
+    <i class="fa fa-file-text-o fa-lg fa-border"></i>
+    </a>
+    Twitter<a href="https://twitter.com/sarthakkhanna94" target="_blank">
+    <i class="fa fa-file-text-o fa-lg fa-border"></i>
+    </a>   
     </ul>
 
 
