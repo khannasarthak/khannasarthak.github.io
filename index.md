@@ -24,6 +24,7 @@ I've done various [projects](http://khannasarthak.github.io/projects/), ranging 
 For more details see [about.](http://khannasarthak.github.io/about/) You can also contact me via email at <a href="mailto:{{ site.email}}">**khannasarthak.1994@gmail.com**</a>
    
 ---
+Social Links:
 <ul><a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
 <i class="fa fa-github fa-lg fa-border"></i> 
 </a> •
