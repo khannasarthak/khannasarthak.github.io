@@ -9,7 +9,7 @@ Hi,i'm a graduate student studying computer engineering, specializing in compute
 
 My main interests are data science, machine learning and web technologies. I'm still exploring and looking to experiment with new fields like software development. ( polish it, show more emphasis on software development). 
 
-I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to standalone web apps.[Have a look!](http://khannasarthak.github.io/projects/).  ( name a few technologies youve worked on here.)
+I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to standalone web apps. [Have a look!](http://khannasarthak.github.io/projects/).  ( name a few technologies youve worked on here.)
 
 View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
 
@@ -28,10 +28,10 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
 
 Social Media:   
 
-   <ul> <a href="https://github.com/{{ site.github_username }}" target="_blank">
-      <i class="fa fa-github fa-2x">Github</i> 
+   <ul>Github <a href="https://github.com/{{ site.github_username }}" target="_blank">
+      <i class="fa fa-github fa-2x"></i> 
     </a>
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
+    Linkedin<a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
       <i class="fa fa-linkedin fa-2x">Linkedin</i> 
     </a></ul>
 
