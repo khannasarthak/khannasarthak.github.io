@@ -26,24 +26,24 @@ For more details see [about.](http://khannasarthak.github.io/about/) and you can
 ---
 #### Social Media:
 <ul><a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
-      <i class="fa fa-github fa-lg fa-border"></i> 
-    </a> •
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">Linkedin
-      <i class="fa fa-linkedin fa-lg fa-border"></i> 
-    </a> •
-    <a href="mailto:{{ site.email}}">Email
-      <i class="fa fa-envelope fa-lg fa-border"></i> 
-    </a> •
-    <a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume
-    <i class="fa fa-file-text-o fa-lg fa-border"></i>
-    </a> •
-    <a href="https://www.facebook.com/khannasarthak94" target="_blank">Facebook
-    <i class="fa fa-facebook-official fa-lg fa-border"></i>
-    </a> •
-    <a href="https://twitter.com/sarthakkhanna94" target="_blank">Twitter
-    <i class="fa fa-twitter fa-lg fa-border"></i>
-    </a>   
-    </ul>
+<i class="fa fa-github fa-lg fa-border"></i> 
+</a> •
+<a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">Linkedin
+<i class="fa fa-linkedin fa-lg fa-border"></i> 
+</a> •   
+<a href="https://www.facebook.com/khannasarthak94" target="_blank">Facebook
+<i class="fa fa-facebook-official fa-lg fa-border"></i>
+</a> •
+<a href="https://twitter.com/sarthakkhanna94" target="_blank">Twitter
+<i class="fa fa-twitter fa-lg fa-border"></i>
+</a> •
+<a href="mailto:{{ site.email }}">Email
+<i class="fa fa-envelope fa-lg fa-border"></i> 
+</a> •
+<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume
+<i class="fa fa-file-text-o fa-lg fa-border"></i>
+</a> 
+</ul>
 
 
 
