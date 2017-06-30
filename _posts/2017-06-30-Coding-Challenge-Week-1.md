@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Coding Challenge
+title: Coding Challenge : Week 1
 categories: coding
 ---
 
-Code everyday for atleast 4 hours doing questions from leet code, geek for geeks or algorithmic implementations. This will be a sort of personal blog writing my daily progress and if possible waka time images. Also, start another blog for helpful python tips that I can refer later on.
 
 **GOALS**
 * 150 Leet code problems (30/150)
