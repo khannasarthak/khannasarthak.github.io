@@ -4,11 +4,11 @@ title: Binary Trees
 categories: coding
 ---
 
-My learning progress on trees. Will upgrade with code snippets and how they are implemented in code.
+My learning progress on trees. Will upgrade with code snippets and how they are used.
 
 ---
 
-* Create a basic binary tree
+### Create a basic binary tree
 
 ```python
 class Node:
@@ -26,14 +26,20 @@ root = Node(1)			# Root node
 root.left = Node(2)		# Left child with value 2
 root.right = Node(3)	# Right child with value 3
 # Tree formed :
-#	1
+#   1
 #  / \
 # 2   3
 ```
 This is just the creation of binary trees, the next main part is the traversal, which can be done in multiple ways, namely, DFS and BFS.
 
 ---
-* Depth First Search (DFS)
+### Depth First Search (DFS)
+* Inorder
+
+* Preorder
+
+* Postorder
+
 
 
 
