@@ -7,7 +7,7 @@ categories: coding
 Code everyday for atleast 4 hours doing questions from leet code, geek for geeks or algorithmic implementations. This will be a sort of personal blog writing my daily progress and if possible waka time images. Also, start another post for helpful python tips that I can refer later on.
 
 **GOALS**
-* 150 Leet code problems (34/150) 
+* 150 Leet code problems (39/150) 
 
 
 
@@ -64,6 +64,48 @@ Without zip, the solution was getting timed out for 1 test case. Zip function co
 	list(zip(*count.most_common(k))) gives [(1, 2, 3), (3, 3, 3)], keys in first list and values in second list
 	list(zip(*count.most_common(k)))[0] gives just the first list of keys, ie. (1,2,3)
 ```
-
 Have to code more, and make the linux desktop library / tool as well.
+
+
+---
+### **Day 3** [07/03]
+
+* Leetcode [39] : 268, 326, 35, 551, 70
+
+326:
+```python
+if n==0:
+    return False
+else:
+    while n!=1:
+        if n%3==0:
+            n = n//3
+        else:
+            return False
+            break
+    return (True)
+```
+Another solution without using loops / recursion:
+```python
+return (n > 0 == 3**19 % n)
+```
+The explanations [stackoverflow](https://stackoverflow.com/questions/1804311/how-to-check-if-an-integer-is-a-power-of-3/24274850#24274850) and [leetcode](https://leetcode.com/articles/power-of-three/)
+
+The positive divisors of 3^19 are exactly the powers of 3 from 3^0 to 3^19. That's all powers of 3 in the possible range here (signed 32-bit integer). So just check whether the number is positive and whether it divides 3^19.
+
+551:
+```python
+a_count = s.count('A')
+# print (a_count)
+lll_count = s.count('LLL')
+if a_count >1 or lll_count>0:
+    return False
+else:
+    return True
+```
+Have to try this problem with regular expressions.
+
+
+
+
 
