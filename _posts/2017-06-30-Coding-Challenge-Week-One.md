@@ -7,14 +7,14 @@ categories: coding
 Code everyday for atleast 4 hours doing questions from leet code, geek for geeks or algorithmic implementations. This will be a sort of personal blog writing my daily progress and if possible waka time images. Also, start another post for helpful python tips that I can refer later on.
 
 **GOALS**
-* 150 Leet code problems (39/150) 
+* 150 Leet code problems (42/150) 
 
 
 
 ---
 ### **Day 0** [06/30]
 
-* Leetcode [30] : 557, 500, 561, 506
+* Leetcode [30] : [557], [500], [561], [506]
 
 The questions were good, learnt a few new tricks using dictionaries. Feels good to start coding again after a long break. 
 
@@ -32,7 +32,7 @@ new_list = list1 + list2 # not a deep copy.
 ---
 ### **Day 1** [07/01]
 
-* Leetcode [32] : 169, 520
+* Leetcode [32] : [169], [520]
 
 Spent a lot of time studying binary trees and their implementationsin pyhton, thats why wasnt able to do much of leet code. 
 
@@ -47,7 +47,7 @@ Collections is a lot faster than making and dictionary and checking key value pa
 ---
 ### **Day 2** [07/02]
 
-* Leetcode [34] : 263, 347
+* Leetcode [34] : [263], [347]
 
 347:
 ```python
@@ -70,7 +70,7 @@ Have to code more, and make the linux desktop library / tool as well.
 ---
 ### **Day 3** [07/03]
 
-* Leetcode [39] : 268, 326, 35, 551, 70
+* Leetcode [39] : [268], [326], [35], [551], [70]
 
 326:
 ```python
@@ -105,7 +105,36 @@ else:
 ```
 Have to try this problem with regular expressions.
 
+---
+### **Day 4** [07/03]
+
+* Leetcode [42] : [264(TLE)], [27], [593]
+
+264:
+The algorithm is correct, but the question time complexity needs to be reduced by using Dynamic Programming, which I havent done much yet. Will try it again once ive dont some questions of dynamic.
 
 
+
+
+
+
+
+
+[557] : https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description
+[500] : https://leetcode.com/problems/keyboard-row/#/description
+[561]
+[506]
+[169]
+[520]
+[263]
+[347]
+[268]
+[326]
+[35]
+[551]
+[70]
+[264(TLE)] : https://leetcode.com/problems/ugly-number-ii
+[27]
+[593]
 
 
