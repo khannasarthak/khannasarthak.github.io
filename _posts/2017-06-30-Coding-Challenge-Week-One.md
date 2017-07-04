@@ -120,21 +120,21 @@ The algorithm is correct, but the question time complexity needs to be reduced b
 
 
 
-[557] : https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description
-[500] : https://leetcode.com/problems/keyboard-row/#/description
-[561]
-[506]
-[169]
-[520]
-[263]
-[347]
-[268]
-[326]
-[35]
-[551]
-[70]
-[264(TLE)] : https://leetcode.com/problems/ugly-number-ii
-[27]
-[593]
+[557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description
+[500]: https://leetcode.com/problems/keyboard-row/#/description
+[561]: https://leetcode.com/problems/array-partition-i/#/description
+[506]: https://leetcode.com/problems/relative-ranks/#/description
+[169]: https://leetcode.com/problems/majority-element/#/description
+[520]: https://leetcode.com/problems/detect-capital/#/description
+[263]: https://leetcode.com/problems/ugly-number/#/description
+[347]: https://leetcode.com/problems/top-k-frequent-elements/#/description
+[268]: https://leetcode.com/problems/missing-number/#/description
+[326]: https://leetcode.com/problems/power-of-three/#/description
+[35]: https://leetcode.com/problems/search-insert-position/#/description
+[551]: https://leetcode.com/problems/student-attendance-record-i/#/description
+[70]: https://leetcode.com/problems/climbing-stairs/#/description
+[264(TLE)]: https://leetcode.com/problems/ugly-number-ii
+[27]: https://leetcode.com/problems/remove-element/#/description
+[593]:https://leetcode.com/problems/valid-square/#/description
 
 
