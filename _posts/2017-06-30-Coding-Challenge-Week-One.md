@@ -164,8 +164,10 @@ Have to try and do this in less than n^2 complexity, using binary search would m
 
 The code used here is very useful and can be reused in various questions.
 ```python
-names  =  [x for x in a if x.isalpha()] # creates a list out of a which just gives names
+names  =  [x for x in a if x.isalpha()] # creates a list out of a which just gives names. a is the original list here
+
 scores = [x for x in a if x.isalpha()==False]
+
 k = [scores[i:i+3] for i in range(0, len(scores), 3)] #VERY IMP, creates a new list k containing elements as sublist from the original list
 
 #EG:
