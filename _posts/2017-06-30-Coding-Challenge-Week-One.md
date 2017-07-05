@@ -166,9 +166,9 @@ The code used here is very useful and can be reused in various questions.
 ```python
 names  =  [x for x in a if x.isalpha()] # creates a list out of a which just gives names
 scores = [x for x in a if x.isalpha()==False]
-k = [scores[i:i+3] for i in range(0, len(scores), 3)] $VERY IMP, creates a new list k containing elements as sublist from the original list
+k = [scores[i:i+3] for i in range(0, len(scores), 3)] #VERY IMP, creates a new list k containing elements as sublist from the original list
 
-EG:
+#EG:
 list = [1,2,3,4,5,6,7,8,9]
 k = [list[i:i+3] for i in range(0, len(list), 3)]
 k = [[1,2,3],[4,5,6],[7,8,9]]
