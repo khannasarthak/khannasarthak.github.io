@@ -136,7 +136,7 @@ a[:] = [2]; b == [2], b also gets updated
 
 NEVER USE under root for distance, just keep everything in square. 2^(0.5) makes things very very difficult with the extra precision. ALWAYS DRAW THE FIGURE AND DESGIN THE ALGORITHM. [Reference](http://www.geeksforgeeks.org/check-given-four-points-form-square/)
 
-Try to solve this suing itertools and combinations: 
+Try to solve this using itertools and combinations: 
 ```python
 class Solution(object):
 def validSquare(self, p1, p2, p3, p4):
@@ -147,6 +147,38 @@ def validSquare(self, p1, p2, p3, p4):
 ```
 
 Need to buck up and increase the pace at which im solving, by A LOT!
+
+---
+### **Day 5** [07/05]
+
+Didn't do leet code, instead started with geekforgeeks amazon company questions, will mix these two up. Did 4 questions and learnt a new method to slice list into various ways.
+
+Questions: 
+* [maximum-money:](http://practice.geeksforgeeks.org/problems/maximum-money/0)
+* [check-if-given-four-points-form-a-square:](http://practice.geeksforgeeks.org/problems/check-if-given-four-points-form-a-square/0)
+* [equal-to-product:](http://practice.geeksforgeeks.org/problems/equal-to-product/0)
+
+Have to try and do this in less than n^2 complexity, using binary search would make it nlogn, is there anything better?
+
+* [student-record:](http://practice.geeksforgeeks.org/problems/student-record/0):
+
+The code used here is very useful and can be reused in various questions.
+```python
+names  =  [x for x in a if x.isalpha()] # creates a list out of a which just gives names
+scores = [x for x in a if x.isalpha()==False]
+k = [scores[i:i+3] for i in range(0, len(scores), 3)] $VERY IMP, creates a new list k containing elements as sublist from the original list
+
+EG:
+list = [1,2,3,4,5,6,7,8,9]
+k = [list[i:i+3] for i in range(0, len(list), 3)]
+k = [[1,2,3],[4,5,6],[7,8,9]]
+```
+
+Will code from g4g and leetcode both tomorrow, and also have to start reading CTCI!
+
+
+
+
 
 
 
