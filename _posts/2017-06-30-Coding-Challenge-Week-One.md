@@ -153,7 +153,7 @@ Need to buck up and increase the pace at which im solving, by A LOT!
 
 Didn't do leet code, instead started with geekforgeeks amazon company questions, will mix these two up. Did 4 questions and learnt a new method to slice list into various ways.
 
-Questions: 
+Geekforgeeks: 
 * [maximum-money:](http://practice.geeksforgeeks.org/problems/maximum-money/0)
 * [check-if-given-four-points-form-a-square:](http://practice.geeksforgeeks.org/problems/check-if-given-four-points-form-a-square/0)
 * [equal-to-product:](http://practice.geeksforgeeks.org/problems/equal-to-product/0)
@@ -177,6 +177,59 @@ k = [[1,2,3],[4,5,6],[7,8,9]]
 ```
 
 Will code from g4g and leetcode both tomorrow, and also have to start reading CTCI!
+
+---
+### **Day 6** [07/06]
+
+Did quite a lot of coding today. Have to keep increasing my pace.
+
+Leetcode: [58], [66]
+
+Have to read about split() function properly, need to understand how and what does it do. 
+
+Geekforgeeks:
+* [check-set-bits](http://practice.geeksforgeeks.org/problems/check-set-bits/0)
+* [uncommon-characters](http://practice.geeksforgeeks.org/problems/uncommon-characters/0)
+
+How to find that some element from list bexists in list a or not.
+```python
+k1 = [item for item in b if item not in a]
+```
+
+* [check-if-string-is-rotated-by-two-places](http://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
+
+Rotating a string:
+```python
+a[i:]+a[:i]
+i is positive for right shift and negative for left shift
+```
+
+* [overlapping-rectangles](http://practice.geeksforgeeks.org/problems/overlapping-rectangles/0)
+
+A very good question, difficult to solve without knowledge of the concept. Readings: [First Source](https://stackoverflow.com/questions/13390333/two-rectangles-intersection) , [Second Source](https://stackoverflow.com/questions/306316/determine-if-two-rectangles-overlap-each-other)
+
+* [immediate-smaller-element](http://practice.geeksforgeeks.org/problems/immediate-smaller-element/0)
+* [replace-all-0-with-5-in-an-input-integer](http://practice.geeksforgeeks.org/problems/replace-all-0-with-5-in-an-input-integer/1)
+
+How to replace an element with another in a list:
+```python
+myl = list(str(n))
+
+new_items = [x if (x != '0') else '5' for x in myl] 
+
+# [x if (condition) else <New Value> for x in list]
+
+k = int(''.join(map(str,new_items)))  # convert a str list to string
+
+```
+
+Today was quite productive, have to keep working harder!
+
+
+
+
+
+
 
 
 
@@ -207,5 +260,7 @@ Will code from g4g and leetcode both tomorrow, and also have to start reading CT
 [264(TLE)]: https://leetcode.com/problems/ugly-number-ii
 [27]: https://leetcode.com/problems/remove-element/#/description
 [593]:https://leetcode.com/problems/valid-square/#/description
+[58]: https://leetcode.com/problems/length-of-last-word/#/description
+[66]: https://leetcode.com/problems/plus-one/#/description
 
 
