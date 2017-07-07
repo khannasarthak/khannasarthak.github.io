@@ -223,7 +223,35 @@ k = int(''.join(map(str,new_items)))  # convert a str list to string
 
 ```
 
-Today was quite productive, have to keep working harder!
+Today was quite productive, have to keep working hard!
+
+---
+### **Day 7** [07/07]
+
+Learnt about dynamic programming today and implemented it in a question. Once I have doe enough problems, i'll be able to revert to the previous solutions and solve them, just like maths.
+
+Geekforgeeks:
+* [missing-number-in-array](http://practice.geeksforgeeks.org/problems/missing-number-in-array/0)
+* [find-the-odd-occurence](http://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0)
+
+Good question, how to iterate over the dictionary generated after counter:
+```python
+k = list(map(int,input().split()))
+c = (Counter(k))
+for key in c:
+    value = c[key]
+    if value%2==1:
+        print (key)
+```
+
+* [angle-between-hour-and-minute-hand](http://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0)
+* [max-sum-without-adjacents](http://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+
+Toughest question of the day, optimum solution is by using **Dynamic Programming**. Resources to read for this question:
+[g4g](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/), [Stack Overflow 1](https://stackoverflow.com/questions/1065433/what-is-dynamic-programming) , [Stack Overflow 2](https://stackoverflow.com/questions/4487438/maximum-sum-of-non-consecutive-elements).
+
+For more simple problems to understand DP [**go here**](https://github.com/tristanguigue/dynamic-programming). Need to do more problems from this topic, it is one of the important ones.
+
 
 
 
