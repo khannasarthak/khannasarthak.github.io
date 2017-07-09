@@ -31,7 +31,7 @@ Good question , learnt a new way to find all indices of an element in list
 ```python
 
 n = int(input())
-indices = [i for i, x in enumerate(k) if x == n]    # n is the element whos indices are being found
+indices = [i for i, x in enumerate(k) if x == n]    # n is the element whose indices are being found
 ```
 
 * [k-largest-elements](http://practice.geeksforgeeks.org/problems/k-largest-elements/0)
@@ -40,6 +40,18 @@ indices = [i for i, x in enumerate(k) if x == n]    # n is the element whos indi
 
 Have to start doing CTCI and backtracking. Also, work on the linux script to send updates on the desktop automatically.
 
+---
+### **Day 9** [07/09]
+
+Took a break from the normal competitve coding. Instead made a python script / Mini project to download bing's image of the day and set it as my ubuntu wallpaper. View the code repository [here.](https://github.com/khannasarthak/daily-wallpaper-ubuntu16.04)
+
+Learnt a lot of new things reagrding making os calls fro python, json fetching and handling path/ creating directories. 
+
+The script and the code repository can be accessed [**here.**](https://github.com/khannasarthak/daily-wallpaper-ubuntu16.04)
+
+Still have to make it run in the background like a service or as an independent daemon on my ubuntu 16.04. 
+
+Will get back to normal questing solving tomorrow and work on trying to make this script better.
 
 
 [198]: https://leetcode.com/problems/house-robber/#/description
