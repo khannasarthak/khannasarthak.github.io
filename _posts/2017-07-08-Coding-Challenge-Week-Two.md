@@ -43,7 +43,7 @@ Have to start doing CTCI and backtracking. Also, work on the linux script to sen
 ---
 ### **Day 9** [07/09]
 
-Took a break from the normal competitve coding. Instead made a python script / Mini project to download bing's image of the day and set it as my ubuntu wallpaper. View the code repository [here.](https://github.com/khannasarthak/daily-wallpaper-ubuntu16.04)
+Took a break from the normal competitve coding. Instead **made a python script / Mini project to download bing's image of the day and set it as my ubuntu wallpaper**. View the code repository [here.](https://github.com/khannasarthak/daily-wallpaper-ubuntu16.04)
 
 Learnt a lot of new things reagrding making os calls fro python, json fetching and handling path/ creating directories. 
 
