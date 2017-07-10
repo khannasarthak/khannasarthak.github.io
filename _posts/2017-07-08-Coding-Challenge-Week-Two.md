@@ -53,6 +53,34 @@ Still have to make it run in the background like a service or as an independent 
 
 Will get back to normal questing solving tomorrow and work on trying to make this script better.
 
+---
+### **Day 10** [07/10]
+
+Played around with the script I made yesterday, was unable to run it on a virtual machine running ubuntu 16.04.2, will have to try and figure out why it wasn't working. 
+
+**GeekforGeeks**:
+* [number-of-occurrence](http://practice.geeksforgeeks.org/problems/number-of-occurrence/0)
+* [reverse-sub-array](http://practice.geeksforgeeks.org/problems/reverse-sub-array/0)
+* [remove-character](http://practice.geeksforgeeks.org/problems/remove-character/0)
+
+Used the concept i had used in an earlier question to delete the element in place. 
+```python
+# have to delete characters in s2 from s1. All occurances
+k = list(s1)	
+n = list(s2)
+for i in n:
+	k[:] = ([x for x in k if x != i])	# Deletes in place
+```
+Decision to keep a note of important code snippets is proving to be helpful.
+
+* [maximum-product-of-two-numbers](http://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers/0)
+
+Have to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
+
+---
+### **Day 11** [07/11]
+
+
 
 [198]: https://leetcode.com/problems/house-robber/#/description
 [575]: https://leetcode.com/problems/distribute-candies/#/description
