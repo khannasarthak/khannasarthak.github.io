@@ -78,7 +78,11 @@ Decision to keep a note of important code snippets is proving to be helpful.
 Have to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
 
 ---
-### **Day 11** [07/11]
+### **Day 11** [07/12]
+
+Was busy travelling yesterday, couldn't code much. Did a few problems. 
+
+
 
 
 
