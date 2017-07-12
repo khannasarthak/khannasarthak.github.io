@@ -92,7 +92,21 @@ k =  ((format((a),'b'))) # a is the decimal number , 'b' for binary
 Another way to do this is by using bit manipulation given [**here**](http://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
 
 * [minimum-difference-pair](http://practice.geeksforgeeks.org/problems/minimum-difference-pair/0)
+* [bit-difference](http://practice.geeksforgeeks.org/problems/bit-difference/0)
 
+String formatting again and then keeping a fixed value for the binary numbers. A good question.
+```python
+	a1 = str(format(a,'08b'))	# Converts to bainry number, if length > 8 then shows more characters anyways
+	b1 = str(format(b,'08b'))
+
+	a1 = a1.zfill(20)	# to make both of the numbers of same size
+	b1 = b1.zfill(20)
+	
+
+	for i,j in zip(a1,b1): # to iterate and compare both lists
+		if i!=j:
+			c += 1
+```
 
 
 
