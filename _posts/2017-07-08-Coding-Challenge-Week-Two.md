@@ -82,6 +82,16 @@ Have to try and solve it in O(n) time, currently it is O(nlogn) due to the sorti
 
 Was busy travelling yesterday, couldn't code much. Did a few problems. 
 
+**GeekforGeeks**:
+* [find-first-set-bit](http://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
+
+Used python's string formating here to get binary representation of the number.
+```python
+k =  ((format((a),'b'))) # a is the decimal number , 'b' for binary
+```	
+Another way to do this is by using bit manipulation given [**here**](http://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
+
+* [minimum-difference-pair](http://practice.geeksforgeeks.org/problems/minimum-difference-pair/0)
 
 
 
