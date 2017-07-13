@@ -108,6 +108,30 @@ String formatting again and then keeping a fixed value for the binary numbers. A
 			c += 1
 ```
 
+---
+### **Day 12** [07/13]
+
+
+**GeekforGeeks**:
+* [keypad-typing](http://practice.geeksforgeeks.org/problems/keypad-typing/0)
+* [count-total-set-bits](http://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
+
+Easy if implemented using inbuilt ```bin()``` function, however it can be doe by finding a pattern in the bits of odd numbers, solution can be found [**here.**](http://practice.geeksforgeeks.org/editorial.php?pid=500)
+
+* [generate-binary-numbers](http://practice.geeksforgeeks.org/problems/generate-binary-numbers/0)
+
+Another interesting way to do it is using queue, as shown [**here.**](http://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)
+
+* [type-of-array](http://practice.geeksforgeeks.org/problems/type-of-array/0)
+
+Used sort and did, time complexity is O(nlogn), however it can be done using recursion in O(n) the solution is [**here.**](http://www.geeksforgeeks.org/type-array-maximum-element/)
+
+* [twice-counter](http://practice.geeksforgeeks.org/problems/twice-counter/0)
+* [unique-numbers](http://practice.geeksforgeeks.org/problems/unique-numbers/0)
+
+
+
+
 
 
 [198]: https://leetcode.com/problems/house-robber/#/description
