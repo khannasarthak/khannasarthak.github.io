@@ -23,16 +23,16 @@ Similar to dynamic programming problem done yesterday. Need to study more DP.
 **GeekforGeeks**:
 * [permutations-of-a-given-string](http://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 
-Try to do this without itertools and use backtracking. [Refer this](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
+	Try to do this without itertools and use backtracking. [Refer this](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 
 * [find-first-and-last-occurrence-of-x](http://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x/0)
 
-Good question , learnt a new way to find all indices of an element in list
-```python
+	Good question , learnt a new way to find all indices of an element in list
+	```python
 
-n = int(input())
-indices = [i for i, x in enumerate(k) if x == n]    # n is the element whose indices are being found
-```
+	n = int(input())
+	indices = [i for i, x in enumerate(k) if x == n]    # n is the element whose indices are being found
+	```
 
 * [k-largest-elements](http://practice.geeksforgeeks.org/problems/k-largest-elements/0)
 * [rotate-array-by-n-elements](http://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)
@@ -63,19 +63,19 @@ Played around with the script I made yesterday, was unable to run it on a virtua
 * [reverse-sub-array](http://practice.geeksforgeeks.org/problems/reverse-sub-array/0)
 * [remove-character](http://practice.geeksforgeeks.org/problems/remove-character/0)
 
-Used the concept i had used in an earlier question to delete the element in place. 
-```python
-# have to delete characters in s2 from s1. All occurances
-k = list(s1)	
-n = list(s2)
-for i in n:
-	k[:] = ([x for x in k if x != i])	# Deletes in place
-```
-Decision to keep a note of important code snippets is proving to be helpful.
+	Used the concept i had used in an earlier question to delete the element in place. 
+	```python
+	# have to delete characters in s2 from s1. All occurances
+	k = list(s1)	
+	n = list(s2)
+	for i in n:
+		k[:] = ([x for x in k if x != i])	# Deletes in place
+	```
+	Decision to keep a note of important code snippets is proving to be helpful.
 
 * [maximum-product-of-two-numbers](http://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers/0)
 
-Have to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
+	ave to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
 
 ---
 ### **Day 11** [07/12]
@@ -85,28 +85,28 @@ Was busy travelling yesterday, couldn't code much. Did a few problems.
 **GeekforGeeks**:
 * [find-first-set-bit](http://practice.geeksforgeeks.org/problems/find-first-set-bit/0)
 
-Used python's string formating here to get binary representation of the number.
-```python
-k =  ((format((a),'b'))) # a is the decimal number , 'b' for binary
-```	
-Another way to do this is by using bit manipulation given [**here**](http://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
+	Used python's string formating here to get binary representation of the number.
+	```python
+	k =  ((format((a),'b'))) # a is the decimal number , 'b' for binary
+	```	
+	Another way to do this is by using bit manipulation given [**here**](http://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
 
 * [minimum-difference-pair](http://practice.geeksforgeeks.org/problems/minimum-difference-pair/0)
 * [bit-difference](http://practice.geeksforgeeks.org/problems/bit-difference/0)
 
-String formatting again and then keeping a fixed value for the binary numbers. A good question.
-```python
-	a1 = str(format(a,'08b'))	# Converts to bainry number, if length > 8 then shows more characters anyways
-	b1 = str(format(b,'08b'))
+	String formatting again and then keeping a fixed value for the binary numbers. A good question.
+	```python
+		a1 = str(format(a,'08b'))	# Converts to bainry number, if length > 8 then shows more characters anyways
+		b1 = str(format(b,'08b'))
 
-	a1 = a1.zfill(20)	# to make both of the numbers of same size
-	b1 = b1.zfill(20)
-	
+		a1 = a1.zfill(20)	# to make both of the numbers of same size
+		b1 = b1.zfill(20)
+		
 
-	for i,j in zip(a1,b1): # to iterate and compare both lists
-		if i!=j:
-			c += 1
-```
+		for i,j in zip(a1,b1): # to iterate and compare both lists
+			if i!=j:
+				c += 1
+	```
 
 ---
 ### **Day 12** [07/13]
@@ -116,21 +116,35 @@ String formatting again and then keeping a fixed value for the binary numbers. A
 * [keypad-typing](http://practice.geeksforgeeks.org/problems/keypad-typing/0)
 * [count-total-set-bits](http://practice.geeksforgeeks.org/problems/count-total-set-bits/0)
 
-Easy if implemented using inbuilt ```bin()``` function, however it can be doe by finding a pattern in the bits of odd numbers, solution can be found [**here.**](http://practice.geeksforgeeks.org/editorial.php?pid=500)
+	Easy if implemented using inbuilt ```bin()``` function, however it can be doe by finding a pattern in the bits of odd numbers, solution can be found [**here.**](http://practice.geeksforgeeks.org/editorial.php?pid=500)
 
 * [generate-binary-numbers](http://practice.geeksforgeeks.org/problems/generate-binary-numbers/0)
 
-Another interesting way to do it is using queue, as shown [**here.**](http://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)
+	Another interesting way to do it is using queue, as shown [**here.**](http://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)
 
 * [type-of-array](http://practice.geeksforgeeks.org/problems/type-of-array/0)
 
-Used sort and did, time complexity is O(nlogn), however it can be done using recursion in O(n) the solution is [**here.**](http://www.geeksforgeeks.org/type-array-maximum-element/)
+	Used sort and did, time complexity is O(nlogn), however it can be done using recursion in O(n) the solution is [**here.**](http://www.geeksforgeeks.org/type-array-maximum-element/)
 
 * [twice-counter](http://practice.geeksforgeeks.org/problems/twice-counter/0)
 * [unique-numbers](http://practice.geeksforgeeks.org/problems/unique-numbers/0)
 
+---
+### **Day 13** [07/14]
 
+**Leetcode**:
+* [292. Nim Game](https://leetcode.com/problems/nim-game/#/discuss):
 
+	The question had an algorithm, and the detailed explanation is given in the link above.
+
+* [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description):
+
+	Easy to do conceptually
+	```
+	Sum = A XOR B
+	Carry = A & B
+	```
+	However, in python there is no limit on integer size like in C ( 32/64 bit). Therefore, while adding negative numbers a time out occurs (TLE). Still trying to find ways to get around this. Possible way is to convert int to binary , and do calculations on the binary directly.
 
 
 
