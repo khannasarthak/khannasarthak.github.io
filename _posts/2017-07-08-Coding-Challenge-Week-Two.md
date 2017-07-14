@@ -75,7 +75,7 @@ Played around with the script I made yesterday, was unable to run it on a virtua
 
 * [maximum-product-of-two-numbers](http://practice.geeksforgeeks.org/problems/maximum-product-of-two-numbers/0)
 
-	ave to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
+	Have to try and solve it in O(n) time, currently it is O(nlogn) due to the sorting step. O(n) solution for reference can be found [**here**](http://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
 
 ---
 ### **Day 11** [07/12]
@@ -96,16 +96,16 @@ Was busy travelling yesterday, couldn't code much. Did a few problems.
 
 	String formatting again and then keeping a fixed value for the binary numbers. A good question.
 	```python
-		a1 = str(format(a,'08b'))	# Converts to bainry number, if length > 8 then shows more characters anyways
-		b1 = str(format(b,'08b'))
+	a1 = str(format(a,'08b'))	# Converts to bainry number, if length > 8 then shows more characters anyways
+	b1 = str(format(b,'08b'))
 
-		a1 = a1.zfill(20)	# to make both of the numbers of same size
-		b1 = b1.zfill(20)
-		
+	a1 = a1.zfill(20)	# to make both of the numbers of same size
+	b1 = b1.zfill(20)
+	
 
-		for i,j in zip(a1,b1): # to iterate and compare both lists
-			if i!=j:
-				c += 1
+	for i,j in zip(a1,b1): # to iterate and compare both lists
+		if i!=j:
+			c += 1
 	```
 
 ---
