@@ -144,8 +144,34 @@ Was busy travelling yesterday, couldn't code much. Did a few problems.
 	Sum = A XOR B
 	Carry = A & B
 	```
-	However, in python there is no limit on integer size like in C ( 32/64 bit). Therefore, while adding negative numbers a time out occurs (TLE). Still trying to find ways to get around this. Possible way is to convert int to binary , and do calculations on the binary directly.
+	However, in python there is no limit on integer size like in C ( 32/64 bit). Therefore, while adding negative numbers a time out occurs (TLE). Still trying to find ways to get around this. Possible way is to convert int to binary , and do calculations on the binary directly. 
 
+	Solved it by looking at the stackoverflow [answer](https://stackoverflow.com/questions/30696484/a-b-without-arithmetic-operators-python-vs-c). However, this still doesn't seem neat. Maybe try to improve it further by using hex values on m and n. 
+
+	```python
+	m = 2**32 # Max value
+	n = -2*32 # Min Value
+	```
+
+
+---
+### **Day 14** [07/15]
+
+* [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)
+
+	Used Binary search, however need to understand how it works properly and use it a couple of more times. Resources: [One](http://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-1.php) ,[Two](http://www.geeksforgeeks.org/binary-search/). 
+
+	Will study and do a few implementations of binary search.
+
+* [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/#/description)
+
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)
+
+	Easy question, just need to find all the edge cases, now have to try with dictionaries as well. Dictionary approach much faster. Do not forget to add the alst digit in the dictionary approach.
+
+* [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)
+	
+	The question was quite vague, always read the problem 2-3 times before coding.
 
 
 [198]: https://leetcode.com/problems/house-robber/#/description
