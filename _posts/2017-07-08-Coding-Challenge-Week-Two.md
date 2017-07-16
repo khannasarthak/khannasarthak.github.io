@@ -157,6 +157,7 @@ Was busy travelling yesterday, couldn't code much. Did a few problems.
 ---
 ### **Day 14** [07/15]
 
+**Leetcode**:
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)
 
 	Used Binary search, however need to understand how it works properly and use it a couple of more times. Resources: [One](http://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-1.php) ,[Two](http://www.geeksforgeeks.org/binary-search/). 
