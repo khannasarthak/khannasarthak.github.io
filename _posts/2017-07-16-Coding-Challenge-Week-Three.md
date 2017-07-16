@@ -25,4 +25,15 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 	print (fibo) # gives the whole list, with the indexes acting like keys in a dictionary
 	```
+* [number-of-paths](http://practice.geeksforgeeks.org/problems/number-of-paths/0)
+	
+	**Dynamic problem or recursion**, kinda tough to understand , need to do more of such kinds. 
 
+	Reference: [One](http://algorithms.tutorialhorizon.com/dynamic-programming-count-all-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/)
+	, [Two](http://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/), [Three](http://algorithms.tutorialhorizon.com/print-all-paths-from-top-left-to-bottom-right-in-two-dimensional-array/)
+
+* [count-zero](http://practice.geeksforgeeks.org/problems/count-zero/0)	
+
+	Dont always think about CS, use simple concepts of PnC, like in this question. Read question and try if you can use PnC, makes the question easier to solve
+
+* []()
