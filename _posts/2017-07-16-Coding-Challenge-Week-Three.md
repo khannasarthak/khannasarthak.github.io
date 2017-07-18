@@ -36,4 +36,7 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 	Dont always think about CS, use simple concepts of PnC, like in this question. Read question and try if you can use PnC, makes the question easier to solve
 
-* []()
+---
+### **Day 16** [07/18]
+
+Missed a day due to travelling. Back at home now, can starting working properly again.
