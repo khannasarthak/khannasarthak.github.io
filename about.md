@@ -4,7 +4,7 @@ title: About
 ---
 
 ---
-## Education
+## Education {{ site.baseurl }}
 * **Master of Science** (MS) *2016-Present*
 	* Major: Computer Engineering (Computer Systems)
 	* Arizona State University, Tempe, Arizona, USA
@@ -14,6 +14,7 @@ title: About
 * **Bachelor of Technology** (B.Tech) *2012-2016*
 	* Major: Electronics and Communications Engineering
 	* Vellore Institute of Technology (VIT), Tamil Nadu, India
+
 	
 
 ---
