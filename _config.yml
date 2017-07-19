@@ -11,7 +11,7 @@ title:            Sarthak Khanna
 tagline:          ''
 description:      'Graduate student pursuing computer engineering'
 url:              khannasarthak.github.io
-baseurl: /
+
 
 # baseurl isnt working, so creating my own variable to make it work.
 newurl : /
@@ -22,7 +22,7 @@ author:
 twitter_username:     
 github_username:      khannasarthak
 linkedin_username:    sarthakkhanna
-
+baseurl: /
 facebook_username:    
 email: khannasarthak.1994@gmail.com
 
