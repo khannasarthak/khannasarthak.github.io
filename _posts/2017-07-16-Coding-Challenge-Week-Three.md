@@ -42,3 +42,42 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 Missed a day due to travelling. Back at home now, can starting working properly again. 
 
 My site started having loads of issues today, even though I didnt do any changes. Was able to fix the problems ( css not loading, and baseurl errors) by creating a new ```baseurl``` variable equivalent and using that every where instead. Took some time to figure it out. 
+
+**GeekforGeeks**:
+* [array-of-alternate-ve-and-ve-nos](http://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos/0)
+	
+	Iterate through 2 lists, however the length of new list is dependent on the smaller list.
+	
+	```python
+	for i,j in zip(pos,neg):
+		new.append(i)
+		new.append(j)
+	```
+	For example:
+	```
+	pos = [1,2,3]
+	neg= [-2,-3]
+	new = [1,2,-2,-3]
+	```
+	Therefore, use with caution and make sure to take the extra elements from longer list into account.
+
+* [count-the-elements **DO AGAIN IN LESS TIME**](http://practice.geeksforgeeks.org/problems/count-the-elements/0)
+	
+	Solution needs a O(n) solution, however I could only come up with a O(n^2) solution as of now. Learnt a few new things:
+
+	To create a list of keys with no values, where keys are from a list do the following:
+	```python
+	a = [1,2,3]
+	op = {key: None for key in a}
+	```
+
+	And to get values from a dictionary as a list:
+	```python
+	k = list(dictname.values())
+	```
+
+	*DICTIONARIES ARE NOT ORDERED, IF YOU GET VALUES FROM THEM, THEY WILL BE IN RANDOM ORDER. DICTIONARY IS AS GOOD AS A HASH TABLE*
+
+	Still have to attemp and do this question in O(n^2) as given [**here.**](http://practice.geeksforgeeks.org/editorial.php?pid=2087) 	
+
+
