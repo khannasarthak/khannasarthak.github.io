@@ -39,4 +39,6 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 ---
 ### **Day 16** [07/18]
 
-Missed a day due to travelling. Back at home now, can starting working properly again.
+Missed a day due to travelling. Back at home now, can starting working properly again. 
+
+My site started having loads of issues today, even though I didnt do any changes. Was able to fix the problems ( css not loading, and baseurl errors) by creating a new ```baseurl``` variable equivalent and using that every where instead. Took some time to figure it out. 
