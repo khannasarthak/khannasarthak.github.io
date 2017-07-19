@@ -12,6 +12,7 @@ tagline:          ''
 description:      'Graduate student pursuing computer engineering'
 url:              khannasarthak.github.io
 baseurl:          /
+newurl: /
 
 author:
   name:           'Sarthak Khanna'
