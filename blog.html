@@ -37,7 +37,7 @@ title: Blog
 </div> -->
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
     <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
