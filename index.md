@@ -4,7 +4,6 @@ title: Home
 published: true
 ---
 
-{{ site.baseurl }}
 
 Hi,i'm a graduate student studying computer engineering, specializing in computer systems at Arizona State University.
 
