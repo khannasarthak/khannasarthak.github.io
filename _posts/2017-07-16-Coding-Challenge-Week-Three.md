@@ -37,7 +37,7 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 	Dont always think about CS, use simple concepts of PnC, like in this question. Read question and try if you can use PnC, makes the question easier to solve
 
 ---
-### **Day 16** [07/18]
+### **Day 16** [07/19]
 
 Missed a day due to travelling. Back at home now, can starting working properly again. 
 
@@ -81,3 +81,38 @@ My site started having loads of issues today, even though I didnt do any changes
 	Still have to attemp and do this question in O(n^2) as given [**here.**](http://practice.geeksforgeeks.org/editorial.php?pid=2087) 	
 
 
+---
+### **Day 17** [07/20]
+
+**GeekforGeeks**:
+* [check-if-a-number-can-be-expressed-as-xy](http://practice.geeksforgeeks.org/problems/check-if-a-number-can-be-expressed-as-xy/0)
+	
+	Easy questions, just need to take care of log in python for numbers like 27,243 and so on. *USE LOG10 for all purposes.*
+	```
+	k = math.log10(27)/math.log10(3)
+	ans = 3
+	AND NOT
+
+	k = math.log(27)/math.log(3)
+	ans = 2.9999
+	```
+	This leads to rounding problems.
+
+* [pairs-of-prime-number](http://practice.geeksforgeeks.org/problems/pairs-of-prime-number/0)
+
+	Tough question, still needs to be optimized. [Generate prime numbers till n](https://stackoverflow.com/questions/11619942/print-series-of-prime-numbers-in-python) :
+	```python
+	for num in range(1,n):
+    if all(num%i!=0 for i in range(2,int((num**0.5))+1,2)):
+       op.append(int(num))
+	```
+	[Editorial](http://www.geeksforgeeks.org/find-two-prime-numbers-with-given-sum/)
+
+* [geek-and-coffee-shop](http://practice.geeksforgeeks.org/problems/geek-and-coffee-shop/0)
+* [count-possible-triangles](http://practice.geeksforgeeks.org/problems/count-possible-triangles/0)
+	
+	First solved using simple brute force in O(n^3), however can be reduced to O(n^2) by a trick given [**here**](http://www.geeksforgeeks.org/find-number-of-triangles-possible/)
+
+* [possible-groups](http://practice.geeksforgeeks.org/problems/possible-groups/0)
+	
+	Can be brute forced, but takes O(n^3), a smarter trick can get it done in O(n) using simple PnC ad dictionaries. [**Editorial**](http://www.geeksforgeeks.org/count-possible-groups-size-2-3-sum-multiple-3/)
