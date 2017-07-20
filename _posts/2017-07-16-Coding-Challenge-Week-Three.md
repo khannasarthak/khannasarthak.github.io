@@ -116,4 +116,37 @@ My site started having loads of issues today, even though I didnt do any changes
 * [possible-groups](http://practice.geeksforgeeks.org/problems/possible-groups/0)
 	
 	Can be brute forced, but takes O(n^3), a smarter trick can get it done in O(n) using simple PnC ad dictionaries. [**Editorial**](http://www.geeksforgeeks.org/count-possible-groups-size-2-3-sum-multiple-3/)
-* []()
+	```
+	using nC3 and nC2 to find the groups. i.e Combinations
+	```
+* [boolean-matrix-problem](http://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0)
+
+	Had to *convert a single list into a matrix*, code might be useful later. [Refernce](http://www.geeksforgeeks.org/a-boolean-matrix-question/) for later
+	```python
+	m = [1,2,3,4,5,6,7,8,9] # list
+
+	r,c = 3,4 # row and column
+
+	while m!= []:
+		k.append(m[:c])
+		m = m[c:] 
+
+	print (k)	# k is a 2D array / matrix
+	```
+* [count-substrings](http://practice.geeksforgeeks.org/problems/count-substrings/0)
+* [single-number](http://practice.geeksforgeeks.org/problems/single-number/0)
+	Use XOR to find single number
+	```
+	a^a = 0
+	a^b^a=b
+	```
+* [reverse-bits](http://practice.geeksforgeeks.org/problems/reverse-bits/0)
+	To convert dec to bin :
+	```python
+	b = str(format(n,'b'))
+	```
+	To convert bin to dec:
+	```python
+	d - int(b,2)
+	```
+	*DONT FORGET ZFILL to padd extra 0's* ```binary.zfill(32)``` to convert to 32 bit.
