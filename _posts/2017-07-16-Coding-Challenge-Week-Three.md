@@ -162,10 +162,10 @@ My site started having loads of issues today, even though I didnt do any changes
 
  [**Crypto Currency Desktop Notifier**](https://github.com/khannasarthak/python-cryptomoney)
 
-	Created a mini project using python on ubuntu, used json , currency API's and used the unix scheduler **cron** to run the script repeatedly at a given time.
+Created a mini project using python on ubuntu, used json , currency API's and used the unix scheduler **cron** to run the script repeatedly at a given time.
 
 [**Wallpaper Changer**](https://github.com/khannasarthak/daily-wallpaper-ubuntu16.04)
 
-	Updated the code and enabled the script to run on startup, was missing the permission changes ```chmod +x filename.py``` in the startup application in ubuntu. However, it only works if the file is on the desktop, still have to figure out why it doesnt work if kept inside folders even when all folders are made chmod +x.
+Updated the code and enabled the script to run on startup, was missing the permission changes ```chmod +x filename.py``` in the startup application in ubuntu. However, it only works if the file is on the desktop, still have to figure out why it doesnt work if kept inside folders even when all folders are made chmod +x.
 
 Will study tree's do Leetcode, geekforgeeks questions on it tomorrow.
