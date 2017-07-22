@@ -169,3 +169,20 @@ Created a mini project using python on ubuntu, used json , currency API's and us
 Updated the code and enabled the script to run on startup, was missing the permission changes ```chmod +x filename.py``` in the startup application in ubuntu. However, it only works if the file is on the desktop, still have to figure out why it doesnt work if kept inside folders even when all folders are made chmod +x.
 
 Will study tree's do Leetcode, geekforgeeks questions on it tomorrow.
+
+---
+### **Day 19** [07/22]
+
+**GeekforGeeks**:
+* [height-of-binary-tree](http://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+	
+	THe solution is mostly recursive. Calling each root again and again.
+
+* [inorder-traversal](http://practice.geeksforgeeks.org/problems/inorder-traversal/1)
+	
+	Basic traversal techniques [Wiki](https://en.wikipedia.org/wiki/Tree_traversal)
+* [count-leaves-in-binary-tree **TLE**](http://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
+	
+	Look at iterative solutiong and solve. [Editorial](http://www.geeksforgeeks.org/iterative-program-count-leaf-nodes-binary-tree/)
+
+Will finish off the basic questions by tomorrow.
