@@ -186,3 +186,18 @@ Will study tree's do Leetcode, geekforgeeks questions on it tomorrow.
 	Look at iterative solutiong and solve. [Editorial](http://www.geeksforgeeks.org/iterative-program-count-leaf-nodes-binary-tree/)
 
 Will finish off the basic questions by tomorrow.
+
+
+---
+### **Day 20** [07/23]
+
+**GeekforGeeks**:
+* [level-order-traversal](http://practice.geeksforgeeks.org/problems/level-order-traversal/1)
+	Solved it and learnt how to traverse BST's. Gotta practice more so that it becomes inherent. *USE QUEUE* . [Editorial](http://pythonfiddle.com/leetcode102binary-tree-level-order-traversal/)
+
+
+**Leetcode**:
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
+* [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/#/description)
+* []()
