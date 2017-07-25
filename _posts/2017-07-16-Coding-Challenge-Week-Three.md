@@ -200,4 +200,28 @@ Will finish off the basic questions by tomorrow.
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/#/description)
-* []()
+
+
+
+---
+### **Day 21** [07/25]
+
+Leetcode has a new notes features, which saves notes for each question on that page, makes it easier to review code.
+
+**GeekforGeeks**:
+* [inorder-traversal-and-bst](http://practice.geeksforgeeks.org/problems/inorder-traversal-and-bst/0)
+	Inorder always gives the result of the BST in a sorted order.
+
+* [postorder-traversal](http://practice.geeksforgeeks.org/problems/postorder-traversal/1) 
+	Iterative solution. [Editorial](http://www.geeksforgeeks.org/iterative-postorder-traversal/)
+
+
+**Leetcode**:
+* [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description)
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)
+	Do simple iterative BFS and then return inverted output list 
+
+* [100. Same Tree](https://leetcode.com/problems/same-tree/#/description)
+* [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)
+
+
