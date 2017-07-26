@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding Challenge Week One
+title: Coding Challenge Week 1
 categories: coding
 ---
 

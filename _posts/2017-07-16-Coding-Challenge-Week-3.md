@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding Challenge Week Three
+title: Coding Challenge Week 3
 categories: coding
 ---
 
@@ -193,6 +193,7 @@ Will finish off the basic questions by tomorrow.
 
 **GeekforGeeks**:
 * [level-order-traversal](http://practice.geeksforgeeks.org/problems/level-order-traversal/1)
+	
 	Solved it and learnt how to traverse BST's. Gotta practice more so that it becomes inherent. *USE QUEUE* . [Editorial](http://pythonfiddle.com/leetcode102binary-tree-level-order-traversal/)
 
 
@@ -210,15 +211,18 @@ Leetcode has a new notes features, which saves notes for each question on that p
 
 **GeekforGeeks**:
 * [inorder-traversal-and-bst](http://practice.geeksforgeeks.org/problems/inorder-traversal-and-bst/0)
+	
 	Inorder always gives the result of the BST in a sorted order.
 
 * [postorder-traversal](http://practice.geeksforgeeks.org/problems/postorder-traversal/1) 
+	
 	Iterative solution. [Editorial](http://www.geeksforgeeks.org/iterative-postorder-traversal/)
 
 
 **Leetcode**:
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)
+	
 	Do simple iterative BFS and then return inverted output list 
 
 * [100. Same Tree](https://leetcode.com/problems/same-tree/#/description)
