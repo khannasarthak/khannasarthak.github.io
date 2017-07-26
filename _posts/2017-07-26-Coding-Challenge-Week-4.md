@@ -17,7 +17,8 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 **GeekforGeeks**:
 * [greater-on-right-side](http://practice.geeksforgeeks.org/problems/greater-on-right-side/0)
 
-		Quicker [solution](http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/). However, the runtime's are comparable, as my initial solution used max.
+	Quicker [solution](http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/). However, the runtime's are comparable, as my initial solution used max.
+	
 * [maximum-value-in-a-bitonic-array](http://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array/0)
 
 	Used Modified Binary search. [Editorial](http://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
