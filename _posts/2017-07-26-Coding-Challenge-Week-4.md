@@ -43,6 +43,56 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 	No need to use recursion, the actual will be the highest power of 2 lower than n. Took time to figure this out.
 	
-**Leetcode**:
 
+---
+### **Day 23** [07/27]
 
+**GeekforGeeks**:
+* [facing-the-sun](http://practice.geeksforgeeks.org/problems/facing-the-sun/0)
+
+* [save-knights](http://practice.geeksforgeeks.org/problems/save-knights/0)
+
+	Involves a trick. from n>=3 the chess board looks like:
+	```
+	3X3
+	K - K
+	- K -
+	K - K
+
+	4X4
+	K - K -
+	- K - K
+	K - K -
+	- K - K
+	```
+	And this pattern continues.
+
+* [next-sparse-binary-number](http://practice.geeksforgeeks.org/problems/next-sparse-binary-number/0)
+
+	My solution was O(nlogn), however a O(n) solution also exists. [Editorial](http://www.geeksforgeeks.org/given-a-number-find-next-sparse-number/)
+
+* [extract-maximum](http://practice.geeksforgeeks.org/problems/extract-maximum/0)
+
+	Used Regex. NOTE: While using regex in python, use ```re.findall``` and not ```re.matches```, the first one gives direct answer, whereas matches gives a matched group, which have to be accessed using ```groups()```
+
+* [k-anagrams-1](http://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+
+	Created a dictionary, also, if we sort a word then its arranged in increasing order so we can compare if 2 anagrams of the same word are actually anagrams or not. [Reference: Ans2 ](https://stackoverflow.com/questions/8286554/using-python-find-anagrams-for-a-list-of-words)
+
+	Adding new vallue for a particular key in a dictionary.
+	```python
+	d[key]=(w.count(key))
+	```
+	Getting all values in a dictionary
+	```python
+	d.values()
+	```
+
+* [reverse-each-word-in-a-given-string](http://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string/0)
+* [number-of-groups](http://practice.geeksforgeeks.org/problems/number-of-groups/0)
+
+	Had already done this question earlier, so it was easier to implement. Used Combinations and modulus. [Editorial](http://www.geeksforgeeks.org/number-groups-sizes-two-three-divisible-3/)
+
+* [non-repeating-character](http://practice.geeksforgeeks.org/problems/non-repeating-character/0)
+
+	Implement the ```collections.Counter``` function yourself tomorrow.
