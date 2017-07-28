@@ -96,3 +96,8 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 * [non-repeating-character](http://practice.geeksforgeeks.org/problems/non-repeating-character/0)
 
 	Implement the ```collections.Counter``` function yourself tomorrow.
+
+---
+### **Day 24** [07/28]
+
+**GeekforGeeks**:
