@@ -98,6 +98,15 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 	Implement the ```collections.Counter``` function yourself tomorrow.
 
 ---
-### **Day 24** [07/28]
+### **Day 24** [07/29]
 
 **GeekforGeeks**:
+* [move-all-zeroes-to-end-of-array](http://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array/0)
+* [inversion-of-array](http://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+
+	Did this using 2 for loops, however a O(nlogn) solution also exists, have a look at it. [Editorial](http://www.geeksforgeeks.org/counting-inversions/)
+* [majority-element](http://practice.geeksforgeeks.org/problems/majority-element/0)
+
+	I solved using hashmap, there are other methods too , but time complexity doesn't reduce to less than hash maps O(n). [Editorial](http://www.geeksforgeeks.org/majority-element/)
+
+* []()
