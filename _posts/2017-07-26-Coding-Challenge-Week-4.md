@@ -95,7 +95,17 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 * [non-repeating-character](http://practice.geeksforgeeks.org/problems/non-repeating-character/0)
 
-	Implement the ```collections.Counter``` function yourself tomorrow.
+	Implement the ```collections.Counter``` function yourself tomorrow. **DONE**
+	```python
+	a = string with elements
+	c = {}
+	for i in a:
+		if i in c.keys():
+			c[i]+=1
+		else:
+			c[i]= 1
+	print (c)
+	```
 
 ---
 ### **Day 24** [07/29]
@@ -109,4 +119,30 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 	I solved using hashmap, there are other methods too , but time complexity doesn't reduce to less than hash maps O(n). [Editorial](http://www.geeksforgeeks.org/majority-element/)
 
-* []()
+* [second-most-repeated-string-in-a-sequence](second-most-repeated-string-in-a-sequence)
+
+* [pythagorean-triplet](http://practice.geeksforgeeks.org/problems/pythagorean-triplet/0)
+
+	Have a look at the [Editorial] for O(n^2) solution, my solution was trivial O(n^3)
+
+* [finding-the-numbers](http://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+
+	[Editorial](http://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/) using XOR, ive used hashing and counter.
+
+* [reverse-words-in-a-given-string](http://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
+
+* [roman-number-to-integer](http://practice.geeksforgeeks.org/problems/roman-number-to-integer/0)
+		
+	Had done this question on leetcode, so the code was much cleaner and faster now.
+
+* [possible-words-from-phone-digits](http://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits/0)
+
+	My method was effectively the same, but i used itertools. [Editorial](http://www.geeksforgeeks.org/find-possible-words-phone-digits/) [Python2 solu, without itertools](http://ide.geeksforgeeks.org/CIvvfx)
+
+	Learnt how to find combinations of a list of lists.
+	```python
+	s = ['abc','def','ghi']
+
+	for combination in itertools.product(*s):	# if no *, then it has to be passes list by list, * passes it as a list of lists.
+		op.append((''.join(combination)))
+	```

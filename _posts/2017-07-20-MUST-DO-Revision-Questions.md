@@ -12,3 +12,5 @@ categories: coding
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/#/description)
 * [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)
+* [pythagorean-triplet](http://practice.geeksforgeeks.org/problems/pythagorean-triplet/0)
+
