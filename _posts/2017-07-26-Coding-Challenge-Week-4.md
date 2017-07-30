@@ -146,3 +146,37 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 	for combination in itertools.product(*s):	# if no *, then it has to be passes list by list, * passes it as a list of lists.
 		op.append((''.join(combination)))
 	```
+
+---
+### **Day 25** [07/30]:
+
+**GeekforGeeks**:
+* [sum-of-middle-elements-of-two-sorted-arrays](http://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0)
+
+	Pythonic solution faster than normal O(n) implementation in all cases. 
+	```python
+	O(n)
+	while a and b:
+		if a[0]<b[0]:
+			op.append(a.pop(0))
+		else:
+			op.append(b.pop(0))
+
+	-- Pytonic --
+	op = a+b
+	op.sort()
+	```
+
+* [equilibrium-point](http://practice.geeksforgeeks.org/problems/equilibrium-point/0)
+
+* [sum-of-two-numbers-represented-as-arrays](http://practice.geeksforgeeks.org/problems/sum-of-two-numbers-represented-as-arrays/0)
+
+	My solution does not change the arrays, however, another implementation : [Editorial](http://practice.geeksforgeeks.org/editorial.php?pid=506)
+
+* [kth-distance](http://practice.geeksforgeeks.org/problems/kth-distance/0)
+	
+	Implemented O(kn) solution, however O(n) is also possible, [Editorial](http://www.geeksforgeeks.org/check-given-array-contains-duplicate-elements-within-k-distance/)
+
+* [does-robot-moves-circular](http://practice.geeksforgeeks.org/problems/does-robot-moves-circular/0)
+
+	Good question, wasnt able to figure it out, had to look at [editorial](http://www.geeksforgeeks.org/check-if-a-given-sequence-of-moves-for-a-robot-is-circular-or-not/) for a clear solution
