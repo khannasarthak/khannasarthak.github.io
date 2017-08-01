@@ -180,3 +180,9 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 * [does-robot-moves-circular](http://practice.geeksforgeeks.org/problems/does-robot-moves-circular/0)
 
 	Good question, wasnt able to figure it out, had to look at [editorial](http://www.geeksforgeeks.org/check-if-a-given-sequence-of-moves-for-a-robot-is-circular-or-not/) for a clear solution
+
+
+---
+### **Day 26** [08/01]:
+
+Hardisk crashed, took time to recover and install the OS again. back to coding now.
