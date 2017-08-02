@@ -183,6 +183,9 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 
 ---
-### **Day 26** [08/01]:
+### **Day 26** [08/02]:
 
 Hardisk crashed, took time to recover and install the OS again. back to coding now.
+
+**GeekforGeeks**:
+* [replace-by-x](http://practice.geeksforgeeks.org/problems/replace-by-x/0)
