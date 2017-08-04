@@ -192,4 +192,11 @@ Hardisk crashed, took time to recover and install the OS again. back to coding n
 
 	The [editorial](http://www.geeksforgeeks.org/a-product-array-puzzle/) is quite different, using a right and left array. Space complexity is higher in mine. 
 
-* 
+* [finding-number](http://practice.geeksforgeeks.org/problems/finding-number/0)
+	
+	[Editorial](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/). I figured the solution out, but took quite some time. Need to note this for future use. *Modified Binary Search for Bitonic Array*
+
+---
+### **Day 27** [08/05]:
+
+**GeekforGeeks**:
