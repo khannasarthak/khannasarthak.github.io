@@ -183,9 +183,13 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 
 
 ---
-### **Day 26** [08/02]:
+### **Day 26** [08/04]:
 
-Hardisk crashed, took time to recover and install the OS again. back to coding now.
+Hardisk crashed, took time to recover and install the OS again. back to coding now. Never, gonna take a break unless absolutely necessary, makes it much difficult to get back and code. 
 
 **GeekforGeeks**:
-* [replace-by-x](http://practice.geeksforgeeks.org/problems/replace-by-x/0)
+* [product-array-puzzle](http://practice.geeksforgeeks.org/problems/product-array-puzzle/0)
+
+	The [editorial](http://www.geeksforgeeks.org/a-product-array-puzzle/) is quite different, using a right and left array. Space complexity is higher in mine. 
+
+* 
