@@ -200,3 +200,18 @@ Hardisk crashed, took time to recover and install the OS again. back to coding n
 ### **Day 27** [08/05]:
 
 **GeekforGeeks**:
+* [count-number-of-ways-to-cover-a-distance](http://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
+
+	Can be solved using DP, however , the question becomes an extended fibonacci seq. [DP editorial](http://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
+
+* [minimum-element-in-a-sorted-and-rotated-array](http://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0)
+
+	Similar to the modified binary search for a bitonic array. [Editorial](http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
+
+* [maximum-repeating-number](http://practice.geeksforgeeks.org/problems/maximum-repeating-number/0)
+
+	Tough question, involves a trick if has to be completed in O(1) space complexity. [Editorial](http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/)
+
+* [numbers-with-same-first-and-last-digit](http://practice.geeksforgeeks.org/problems/numbers-with-same-first-and-last-digit/0)
+
+	My solution takes a lot of time, but doesnt TLE. The [Editorial](http://www.geeksforgeeks.org/count-numbers-first-last-digits/) is quite tricky, hard to come at.
