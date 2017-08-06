@@ -13,4 +13,5 @@ categories: coding
 * [100. Same Tree](https://leetcode.com/problems/same-tree/#/description)
 * [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)
 * [pythagorean-triplet](http://practice.geeksforgeeks.org/problems/pythagorean-triplet/0)
-
+* [jumping-numbers](http://practice.geeksforgeeks.org/problems/jumping-numbers/0)
+* [key-pair](http://practice.geeksforgeeks.org/problems/key-pair/0)

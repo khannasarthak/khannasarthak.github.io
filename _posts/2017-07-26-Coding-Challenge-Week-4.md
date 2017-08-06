@@ -215,3 +215,27 @@ Hardisk crashed, took time to recover and install the OS again. back to coding n
 * [numbers-with-same-first-and-last-digit](http://practice.geeksforgeeks.org/problems/numbers-with-same-first-and-last-digit/0)
 
 	My solution takes a lot of time, but doesnt TLE. The [Editorial](http://www.geeksforgeeks.org/count-numbers-first-last-digits/) is quite tricky, hard to come at.
+
+---
+### **Day 28** [08/06]:
+
+**GeekforGeeks**:
+* [floor-in-a-sorted-array](http://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array/0)
+
+	Getting a hang of binary search now, can easily spot questions where it will be used. Still i take time to figure the complete solution if its not a straightforward application. [Editorial](http://www.geeksforgeeks.org/floor-in-a-sorted-array/)
+
+* [jumping-numbers](http://practice.geeksforgeeks.org/problems/jumping-numbers/0)
+
+	Brute force solution giving TLE. The editorial uses BFS as shown [here.](http://practice.geeksforgeeks.org/problems/jumping-numbers/0)
+
+* [key-pair](http://practice.geeksforgeeks.org/problems/key-pair/0)
+
+	[Editorial](http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/) using hashmap.
+
+* [convert-array-into-zig-zag-fashion](http://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0)
+
+	Good question, used modified bubble sort.
+
+* [maximum-of-all-subarrays-of-size-k](http://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0)
+
+	
