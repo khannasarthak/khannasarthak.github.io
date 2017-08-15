@@ -10,12 +10,11 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 * 150 Leet code problems (42/150) 
 
 
-
 ---
-### **Day 22** [07/26]
+### **Day 29** [08/09]
 
 **GeekforGeeks**:
-* [greater-on-right-side](http://practice.geeksforgeeks.org/problems/greater-on-right-side/0)
+* [three-great-candidates](http://practice.geeksforgeeks.org/problems/three-great-candidates/0)
 
 	Quicker [solution](http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/). However, the runtime's are comparable, as my initial solution used max.
 	
@@ -25,7 +24,13 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 		
 * [magic-number](http://practice.geeksforgeeks.org/problems/magic-number/0)
 
-	Involvede a trick of sorts, given [here](http://www.geeksforgeeks.org/find-nth-magic-number/)
+	---
+### **Day 29** [08/09]
+
+Back to coding
+
+**GeekorGeeks**:
+Involvede a trick of sorts, given [here](http://www.geeksforgeeks.org/find-nth-magic-number/)
 
 * [element-that-appears-once-where-every-element-occurs-twice](http://practice.geeksforgeeks.org/problems/element-that-appears-once-where-every-element-occurs-twice/0)
 		
@@ -240,10 +245,3 @@ Hardisk crashed, took time to recover and install the OS again. back to coding n
 
 
 
----
-### **Day 29** [08/09]
-
-Back to coding
-
-**GeekorGeeks**:
-* [three-great-candidates](http://practice.geeksforgeeks.org/problems/three-great-candidates/0)
