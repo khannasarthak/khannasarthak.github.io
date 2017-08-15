@@ -14,7 +14,11 @@ Code everyday for atleast 4 hours doing questions from leet code, geek for geeks
 ---
 ### **Day 29** [08/09]
 
-Traveling back to the US, wont be able to code for another 2 days or so.
+Back to coding
 
-Jet lag kinda makes life miserable. Will get back to coding from Monday morning.
+**GeekorGeeks**:
+* [three-great-candidates](http://practice.geeksforgeeks.org/problems/three-great-candidates/0)
 
+
+---
+### **Day 30** [08/14]
