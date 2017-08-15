@@ -19,6 +19,3 @@ Back to coding
 **GeekorGeeks**:
 * [three-great-candidates](http://practice.geeksforgeeks.org/problems/three-great-candidates/0)
 
-
----
-### **Day 30** [08/14]
