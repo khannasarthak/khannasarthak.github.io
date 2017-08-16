@@ -6,7 +6,7 @@ title: Projects
 Click the project names to open code repositories or demos.
 
 ---
-[**Theater Management system**](https://github.com/khannasarthak/DMProject){:target="_blank"}, 2017
+[**Theater Management system**](https://github.com/khannasarthak/DMProject-SK){:target="_blank"}, 2017
 
 *A project to manage movie screenings, performances, bookings and customer data for a multiplex.*
 
