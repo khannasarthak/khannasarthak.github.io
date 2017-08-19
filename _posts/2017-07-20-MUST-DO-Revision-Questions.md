@@ -15,3 +15,4 @@ categories: coding
 * [pythagorean-triplet](http://practice.geeksforgeeks.org/problems/pythagorean-triplet/0)
 * [jumping-numbers](http://practice.geeksforgeeks.org/problems/jumping-numbers/0)
 * [key-pair](http://practice.geeksforgeeks.org/problems/key-pair/0)
+* [search-in-a-rotated-array](http://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)

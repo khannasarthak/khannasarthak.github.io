@@ -15,4 +15,17 @@ Finally back to coding after the long journey to the US.
 * [three-great-candidates](http://practice.geeksforgeeks.org/problems/three-great-candidates/0)
 
 ---
-### **Day 30** [08/15]
+### **Day 30** [08/18]
+
+**GeekforGeeks**:
+
+* [reach-the-nth-point](http://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)
+
+	DP problem, was actually just hidden Fibonacci. 
+
+* [is-square](http://practice.geeksforgeeks.org/problems/is-square/0)
+
+	A modified question that I had already solved earlier.
+
+* [max-value](http://practice.geeksforgeeks.org/problems/max-value/0)
+* []()
