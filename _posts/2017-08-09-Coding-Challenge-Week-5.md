@@ -28,4 +28,6 @@ Finally back to coding after the long journey to the US.
 	A modified question that I had already solved earlier.
 
 * [max-value](http://practice.geeksforgeeks.org/problems/max-value/0)
-* []()
+* [search-in-a-rotated-array](http://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
+
+	had done a similar question before, but got stuck again. [Editorial](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/). Try it again.
