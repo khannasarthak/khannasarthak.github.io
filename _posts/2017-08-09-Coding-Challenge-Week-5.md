@@ -31,3 +31,13 @@ Finally back to coding after the long journey to the US.
 * [search-in-a-rotated-array](http://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
 
 	had done a similar question before, but got stuck again. [Editorial](http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/). Try it again.
+
+
+---
+### **Day 31** [08/19]
+
+**GeekforGeeks**:
+
+* [column-name-from-a-given-column-number](http://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number/0)
+
+	Finally solved this question, the mistake I was making was treating A as 1. [Editorial](http://www.geeksforgeeks.org/find-excel-column-name-given-number/)
