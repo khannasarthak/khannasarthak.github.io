@@ -41,3 +41,7 @@ Finally back to coding after the long journey to the US.
 * [column-name-from-a-given-column-number](http://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number/0)
 
 	Finally solved this question, the mistake I was making was treating A as 1. [Editorial](http://www.geeksforgeeks.org/find-excel-column-name-given-number/)
+
+* [find-all-pairs-whose-sum-is-x](http://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+
+	Brute force worked easily. Will try for another solution less than O(n^2)
