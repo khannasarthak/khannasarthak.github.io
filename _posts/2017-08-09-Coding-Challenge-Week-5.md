@@ -18,7 +18,6 @@ Finally back to coding after the long journey to the US.
 ### **Day 30** [08/18]
 
 **GeekforGeeks**:
-
 * [reach-the-nth-point](http://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)
 
 	DP problem, was actually just hidden Fibonacci. 
@@ -37,11 +36,18 @@ Finally back to coding after the long journey to the US.
 ### **Day 31** [08/19]
 
 **GeekforGeeks**:
-
 * [column-name-from-a-given-column-number](http://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number/0)
 
 	Finally solved this question, the mistake I was making was treating A as 1. [Editorial](http://www.geeksforgeeks.org/find-excel-column-name-given-number/)
 
 * [find-all-pairs-whose-sum-is-x](http://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 
-	Brute force worked easily. Will try for another solution less than O(n^2)
+	Brute force worked easily. Will try for another solution less than O(n^2). Editorial using Hashing [here.](http://www.geeksforgeeks.org/given-two-unsorted-arrays-find-pairs-whose-sum-x/)
+
+---
+### **Day 32** [08/20]
+
+**GeekforGeeks**:
+* [rotation](http://practice.geeksforgeeks.org/problems/rotation/0)
+
+	Solved in O(nlogn), im sure can solve it in O(n). However, im unable to get a solution using binary search, the duplicates mess up the answer. [Editorial](http://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/) does not take duplicates into account.
