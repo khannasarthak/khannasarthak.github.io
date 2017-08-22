@@ -51,3 +51,12 @@ Finally back to coding after the long journey to the US.
 * [rotation](http://practice.geeksforgeeks.org/problems/rotation/0)
 
 	Solved in O(nlogn), im sure can solve it in O(n). However, im unable to get a solution using binary search, the duplicates mess up the answer. [Editorial](http://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/) does not take duplicates into account.
+
+---
+### **Day 33** [08/21]
+
+Planning to make an AI assistant using python, did a lot of digging around articles, wolframalpha API along with wikipedia should give me a prototype soon. Can also implement voice recog using google voice api. 
+
+Also, will be switching to ubuntu as my main operatin system for the next few days. Using windows only to study or to sync up class notes.
+
+**GeekforGeeks**:
