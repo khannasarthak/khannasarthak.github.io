@@ -59,4 +59,13 @@ Planning to make an AI assistant using python, did a lot of digging around artic
 
 Also, will be switching to ubuntu as my main operatin system for the next few days. Using windows only to study or to sync up class notes.
 
-**GeekforGeeks**:
+Will create a new post regarding the AI assistant. Wont be able to code as much as before since the classes have started. But I'll keep solving questions whenever I can and also work on the side projects.
+
+---
+### **Day 34** [08/25]
+
+**Leetcode**:
+
+* [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)
+
+* []()
