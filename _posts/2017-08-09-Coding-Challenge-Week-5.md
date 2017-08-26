@@ -68,4 +68,10 @@ Will create a new post regarding the AI assistant. Wont be able to code as much 
 
 * [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)
 
-* []()
+* [smallest-positive-missing-number](http://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/0)
+
+	Good question, need to create an array to store location of positive numbers that have occured. And just print the one where count is 0. [Editorial](http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
+
+* [even-and-odd-elements-at-even-and-odd-positions](http://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions/0)
+
+	I used 2 more arrays to store the intermediete even/odd numbers. Can maybe do it while iterating itself. Time complexity is O(n). [Editorial](http://practice.geeksforgeeks.org/editorial.php?pid=2345)
