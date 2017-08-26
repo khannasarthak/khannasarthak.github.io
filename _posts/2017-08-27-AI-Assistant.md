@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Assistant
-categories: AI
+categories: coding
 ---
 
 ## AI Assistant using python
