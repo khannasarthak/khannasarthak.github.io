@@ -77,3 +77,5 @@ Will create a new post regarding the AI assistant. Wont be able to code as much 
 * [even-and-odd-elements-at-even-and-odd-positions](http://practice.geeksforgeeks.org/problems/even-and-odd-elements-at-even-and-odd-positions/0)
 
 	I used 2 more arrays to store the intermediete even/odd numbers. Can maybe do it while iterating itself. Time complexity is O(n). [Editorial](http://practice.geeksforgeeks.org/editorial.php?pid=2345)
+
+	asefasdf
