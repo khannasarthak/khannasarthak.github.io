@@ -81,6 +81,6 @@ Will create a new post regarding the AI assistant. Wont be able to code as much 
 ---
 ### **Day 35** [08/26]
 
-Testing from linux. Jekyll pages still not udpating. Will check it in the morning.
+
 
 
