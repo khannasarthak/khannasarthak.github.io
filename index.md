@@ -5,7 +5,7 @@ published: true
 ---
 
 
-Hi,I'm a graduate student studying computer engineering, specializing in computer systems at Arizona State University.
+Hi,I'm a graduate student studying computer engineering, specializing in computer systems at Arizona State University. TESTING IF THIS WORKS.
 
 My main interests are data science, machine learning and web technologies. I'm willing to learn new technologies and explore new career fields.
 
