@@ -12,12 +12,12 @@ My main interests are data science, machine learning and web technologies. I'm w
 Currently seeking **internship/co-op/full time** opportunities, preferably in the United States. View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
 
 ---
-I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to standalone web apps. [Have a look!](http://khannasarthak.github.io/projects/).
+I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to web apps. [Have a look!](http://khannasarthak.github.io/projects/).
 
 #### Technical skills:
 
 * Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
-* Web  - HTML, CSS, JQuery, Bootstrap, MySQL, WordPress
+* Web  - HTML, CSS, JQuery, Bootstrap, MySQL, PHP, WordPress
 * Misc - Git, Linux, Matlab, C
 
 ---
