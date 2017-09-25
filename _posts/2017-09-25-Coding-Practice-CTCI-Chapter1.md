@@ -4,13 +4,13 @@ title: Coding Practice CTCI
 categories: coding
 ---
 
-## Chapter 1: Arrays and Strings
+### Chapter 1: Arrays and Strings
 
-Will be posting my solutions in python here and also and notes / comments/  
+Will be posting my solutions in python here and also and notes / comments.
 
 ---
 
-* **1.1 Is Unique:**
+**1.1 Is Unique:**
 
 Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 
@@ -29,7 +29,7 @@ def isUnique(s):
 ```
 
 
-* **1.2 Check Permutation:**
+**1.2 Check Permutation:**
 
 Given two strings, write a method to decide if one is a permutation of the other.
 
@@ -45,7 +45,7 @@ def isPermu(a,b):
 ```
 
 
-* **1.3 URLify:** 
+**1.3 URLify:** 
 
 Write a method to replace all spaces in a string with '%20'.
 
@@ -63,7 +63,7 @@ print ((url(a)))
 
 Use ```split()``` to remove single spaces and extra whitespacing, then use ```join``` to join the string with space replaced with ```%20```.
 
-* **1.4 Palindrome Permutation:**: 
+**1.4 Palindrome Permutation:**: 
 
 Given a string, write a function to check if it is a permutation of a palindrome.
 
