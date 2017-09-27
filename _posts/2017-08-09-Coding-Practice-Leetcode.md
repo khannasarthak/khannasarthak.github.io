@@ -31,3 +31,19 @@ Solutions to various leetcode problems for my refernce. In no particular order. 
 
 Have to find a way without sorting, but other solution works for now.
 
+* [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+
+* [136. Single Number](https://leetcode.com/problems/single-number/description/)
+
+	Remember bit manipulation ```a XOR a = 0, a XOR b XOR a = b```. Can be used to find single element if all others repeating 2 times.
+
+* [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/)
+
+* [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/)
+	
+	Remember to use logic and reasoning as well, solutions can be made much easier.
+
+
+
+
+
