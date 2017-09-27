@@ -91,3 +91,35 @@ print (pp(a))
 
 A good resource with all the implemented methods : [Leetcode Article](https://leetcode.com/articles/palindrome-permutation/#approach-2-using-hashmap-accepted)
 
+
+**1.6 String Compressionn:**: 
+
+Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. 
+
+```python
+s = 'abcdddddd'
+
+s=s.lower()
+c = 0
+
+op = ''
+for i in range(0,len(s)-1):
+	
+	# print (i,s[i],s[i+1])
+	c +=1
+	
+	if s[i]!=s[i+1] or i+1==len(s)-1:
+		op += s[i]+str(c)
+		
+		c=0
+
+op = list(op)
+op[-1] = str(int(op[-1])+1)
+op = ''.join(op)
+
+if len(op)<len(s):	
+	print (op)
+else:
+	print (s)
+
+```
