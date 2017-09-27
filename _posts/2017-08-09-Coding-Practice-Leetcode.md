@@ -25,7 +25,7 @@ Solutions to various leetcode problems for my refernce. In no particular order. 
 	Output: [[1,2,3],[4,5,6]]
 	```
 
-[https://leetcode.com/problems/excel-sheet-column-title/description/](https://leetcode.com/problems/excel-sheet-column-title/description/)
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
 
 [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 
@@ -39,7 +39,7 @@ Have to find a way without sorting, but other solution works for now.
 
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/)
 	
-	Remember to use logic and reasoning as well, solutions can be made much easier..
+	Remember to use logic and reasoning as well, solutions can be made much easier.
 
 
 
