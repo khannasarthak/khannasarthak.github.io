@@ -40,7 +40,7 @@ Have to find a way without sorting, but other solution works for now.
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/)
 	
 	Remember to use logic and reasoning as well, solutions can be made much easier.
-
+.
 
 
 
