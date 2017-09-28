@@ -41,6 +41,20 @@ Have to find a way without sorting, but other solution works for now.
 	
 	Remember to use logic and reasoning as well, solutions can be made much easier.
 
+[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+
+[169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+	
+	Used [moore voting algo](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+
+[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+
+[268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+
+[]()
+
 
 
 
