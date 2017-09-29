@@ -16,15 +16,15 @@ I've done various [projects](http://khannasarthak.github.io/projects/), ranging 
 
 #### Skills:
 
-## Languages:
+##### Languages:
 
 Python • HTML/CSS • SQL• PHP • JavaScript • Matlab • C • Java
 
-## Frameworks:
+##### Frameworks:
 
 Flask • jQuery • Bootstrap • Jekyll • Wordpress • Scikit-Learn • pandas • numpy • matplotlib • seaborn 
 
-## Misc:
+##### Misc:
 
 Git • MySQL • phpMyAdmin • Linux(Ubuntu) • Unreal Engine 4
 
