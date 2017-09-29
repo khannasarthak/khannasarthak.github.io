@@ -14,11 +14,19 @@ Currently seeking **internship/co-op/full time** opportunities, preferably in th
 ---
 I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to web apps. [Have a look!](http://khannasarthak.github.io/projects/).
 
-#### Technical skills:
+#### Skills:
 
-* Python - numpy, scipy, scikit-learn, matplotlib, pandas, flask
-* Web  - HTML, CSS, JQuery, Bootstrap, MySQL, PHP, WordPress
-* Misc - Git, Linux, Matlab, C
+## Languages:
+
+Python • HTML/CSS • SQL• PHP • JavaScript • Matlab • C • Java
+
+## Frameworks:
+
+Flask • jQuery • Bootstrap • Jekyll • Wordpress • Scikit-Learn • pandas • numpy • matplotlib • seaborn 
+
+## Misc:
+
+Git • MySQL • phpMyAdmin • Linux(Ubuntu) • Unreal Engine 4
 
 ---
 For more details see [about.](http://khannasarthak.github.io/about/) You can also contact me via email at <a href="mailto:{{ site.email}}">**khannasarthak.1994@gmail.com**</a>
