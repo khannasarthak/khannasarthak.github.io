@@ -14,7 +14,7 @@ Currently seeking **internship/co-op/full time** opportunities, preferably in th
 ---
 I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to web apps. [Have a look!](http://khannasarthak.github.io/projects/).
 
-#### Skills:
+### Skills:
 
 ##### Languages:
 
