@@ -55,6 +55,11 @@ Have to find a way without sorting, but other solution works for now.
 
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
+[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
+
+[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+
+[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/discuss/)
 
 
 
