@@ -61,5 +61,12 @@ Have to find a way without sorting, but other solution works for now.
 
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/discuss/)
 
+[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 
+	```python
+	(list((Counter(nums1) & Counter(nums2)).elements()))
+	```
+	
+	This basically checks if each elemt exists in both hash maps, and if they exits, gives true. Intersection with duplicates.
+	```&``` is bitwise, checks if a and b both True. ```and``` checks if a and b are logically true.
 
