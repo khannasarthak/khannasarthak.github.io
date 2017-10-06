@@ -70,3 +70,6 @@ Have to find a way without sorting, but other solution works for now.
 	This basically checks if each elemt exists in both hash maps, and if they exits, gives true. Intersection with duplicates.
 	```&``` is bitwise, checks if a and b both True. ```and``` checks if a and b are logically true.
 
+
+[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+
