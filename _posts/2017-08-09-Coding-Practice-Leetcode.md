@@ -73,3 +73,20 @@ Have to find a way without sorting, but other solution works for now.
 
 [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 
+[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
+
+[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+
+[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
+[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
+
+[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
+
+[1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+
+
+
+
+
