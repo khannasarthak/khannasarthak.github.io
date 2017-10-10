@@ -85,6 +85,8 @@ Have to find a way without sorting, but other solution works for now.
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
+[*26. Remove Duplicates from Sorted Array*](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
 
 
 
