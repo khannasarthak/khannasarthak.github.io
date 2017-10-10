@@ -6,6 +6,8 @@ categories: coding
 
 Solutions to various leetcode problems for my refernce. In no particular order. Look at notes on the leetcode website. 
 
+*Italicised Questions are important*
+
 ---
 
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
@@ -86,6 +88,10 @@ Have to find a way without sorting, but other solution works for now.
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 [*26. Remove Duplicates from Sorted Array*](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+
+[189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 
 
 
