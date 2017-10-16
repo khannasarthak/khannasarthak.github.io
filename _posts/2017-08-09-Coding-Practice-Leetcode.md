@@ -95,6 +95,18 @@ Have to find a way without sorting, but other solution works for now.
 
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 
+[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
+
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
+
+[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)
+
+[476. Number Complement](https://leetcode.com/problems/number-complement/description/)
+
+[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+
+
+
 
 
 
