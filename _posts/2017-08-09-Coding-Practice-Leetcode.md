@@ -105,6 +105,15 @@ Have to find a way without sorting, but other solution works for now.
 
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 
+[682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)
+
+[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
+
+[520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+
+
+
+
 
 
 
