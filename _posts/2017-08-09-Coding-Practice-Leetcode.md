@@ -111,8 +111,15 @@ Have to find a way without sorting, but other solution works for now.
 
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 
+[258. Add Digits](https://leetcode.com/problems/add-digits/description/)
 
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+
+[599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+
+[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
 
 
 
