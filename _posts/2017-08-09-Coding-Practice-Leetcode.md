@@ -121,6 +121,27 @@ Have to find a way without sorting, but other solution works for now.
 
 [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)
 
+[504. Base 7](https://leetcode.com/problems/base-7/discuss/)
+
+[389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
+
+[342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
+
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+
+[231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+
+[326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
+
+[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
+
+
+
+
+
+
 
 
 
