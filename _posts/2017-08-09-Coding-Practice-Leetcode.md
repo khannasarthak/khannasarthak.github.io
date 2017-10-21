@@ -137,6 +137,23 @@ Have to find a way without sorting, but other solution works for now.
 
 [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 
+[263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+
+[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+
+[172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+
+[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)
+
+[383. Ransom Note](https://leetcode.com/problems/ransom-note/discuss/)
+
+[292. Nim Game](https://leetcode.com/problems/nim-game/description/)
+
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/)
+
+[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/discuss/)
 
 
 
