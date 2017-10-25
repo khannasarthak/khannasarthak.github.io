@@ -155,6 +155,25 @@ Have to find a way without sorting, but other solution works for now.
 
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/discuss/)
 
+[202. Happy Number](https://leetcode.com/problems/happy-number/description/)
+
+[506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
+
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+[27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+
+[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+
+
+
+
 
 
 
