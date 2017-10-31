@@ -9,7 +9,7 @@ Hi,I'm a graduate student studying computer engineering, specializing in compute
 
 My main interests are data science, machine learning and web technologies. I'm willing to learn new technologies and explore new career fields.
 
-Currently seeking **internship/co-op/full time** opportunities, preferably in the United States. View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
+Currently seeking **co-op/full time** opportunities, preferably in the United States. View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
 
 ---
 I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to web apps. [Have a look!](http://khannasarthak.github.io/projects/).

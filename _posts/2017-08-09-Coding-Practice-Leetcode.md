@@ -171,11 +171,35 @@ Have to find a way without sorting, but other solution works for now.
 
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 
+[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/discuss/)
 
+[507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 
+[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 
+[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/)
 
+[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
+
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/discuss/)
+
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
+
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+
+[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
+
+[717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
+
+[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/discuss/)
+
+[581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
+
+[686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/)
+
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 
 
 
