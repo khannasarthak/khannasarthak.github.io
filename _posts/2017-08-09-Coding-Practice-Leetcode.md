@@ -201,6 +201,10 @@ Have to find a way without sorting, but other solution works for now.
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+
+
+
 
 
 

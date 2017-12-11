@@ -5,17 +5,9 @@ title: Projects
 
 Click the project names to open code repositories or demos.
 
----
-[**Theater Management system**](https://github.com/khannasarthak/DMProject-SK){:target="_blank"}, 2017
 
-*A project to manage movie screenings, performances, bookings and customer data for a multiplex.*
-
-   * Built the web application from scratch using python flask and MySQL. 
-   * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
-   * Generated the dummy data using python faker library.
-   
 ---
-[**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}, 2016
+[**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}
 
 *The project predicts the first booking that a completely new user will make upon visiting airbnb's website. (Kaggle problem statement)*
 
@@ -25,14 +17,50 @@ Click the project names to open code repositories or demos.
    * Analyzed blended ensembles’ performance versus traditional classifiers
 
 ---
-[**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}, 2016
+[**Berkely CS188 Pacman AI Challenges**](https://github.com/khannasarthak/AI){:target="_blank"}
+
+*Implemented various AI algorithms and incorporated them in Pacman*
+
+   * Search algorithms: A star, Uniform Cost, DFS, BFS.
+   * Programmed Expectimax, Minimax and alpha beta pruning.
+   * Value Iteration, Q - Learning and policies.
+   * Berkely resource [link](http://ai.berkeley.edu/project_overview.html)
+
+---
+[**Activity Determining Mobile App**](https://github.com/khannasarthak/DetermineActivityApp){:target="_blank"}
+
+*An android app to determine whether the user jumped, walked or ran using machine learning*
+
+   * Created the android app using android studio. 
+   * Used SVM to train on the data and create a model with 30 instances of each activity.
+   * The K-fold (k=4) cross validation gave an accuracy of 94.805%
+
+---
+[**Theater Management system**](https://github.com/khannasarthak/DMProject-SK){:target="_blank"}
+
+*A project to manage movie screenings, performances, bookings and customer data for a multiplex.*
+
+   * Built the web application from scratch using python flask and MySQL. 
+   * The database had a relational model with queries handling tasks like insertions, updates, deletions. Triggers and indexes were also used.
+   * Generated the dummy data using python faker library.
+
+---
+[**Real Time Accelerometer Plotting**](https://github.com/khannasarthak/HealthMonitorAppv2){:target="_blank"}
+
+*An android app to plot users real time accelerometer data, uploads to a server and then download when needed.*
+
+   * App plots and stores the data for every user.
+   * It also uploads the data to a web server, which can be downloaded later if needed. IMplements a manual sync function of sorts.
+   
+---
+[**Naïve Bayes, K-NN, K-means implementation**](https://github.com/khannasarthak/ML){:target="_blank"}
 
 *Implementation of the said algorithms on standard data sets.*
 
    * Prepped raw data and realized the algorithms in python. Used numpy and matplotlib libraries
 
 ---
-[**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}, 2016
+[**Stuttered Speech Recognition**](https://github.com/khannasarthak/Stuttered-Speech-recognition){:target="_blank"}
 
 *B.Tech final year project, designed algorithm to remove stuttering from a voice sample and passed to Google voice API for recognition.*
 
@@ -41,7 +69,7 @@ Click the project names to open code repositories or demos.
    * Designed a neural network to learn from training samples to remove stutter from new test inputs in python, this new audio was then passed to the Google speech API to be recognized without the stutter.
 
 ---
-[**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}, 2015
+[**Digit recognition using Matlab**](https://github.com/khannasarthak/Digit-Recognition-using-Neural-Networks){:target="_blank"}
 
 *Created a neural network to recognize hand written digits.*
 
@@ -49,7 +77,7 @@ Click the project names to open code repositories or demos.
    * Used the MNIST database to train the neural net.
 
 ---
-[**Polygone - Internet of Things**](https://github.com/khannasarthak/weHack2015LiftBoys){:target="_blank"}, 2015
+[**Polygone - Internet of Things**](https://github.com/khannasarthak/weHack2015LiftBoys){:target="_blank"}
 
 *An idea based on providing real time data analysis to aid user decision making used IoT and connected smart devices.*
 
@@ -57,7 +85,7 @@ Click the project names to open code repositories or demos.
    * The project was awarded the second place in the hackathon it was formulated.
 
  ---
-[**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}, 2015
+[**Web Development: RNR**](https://github.com/khannasarthak/RNRwebsite){:target="_blank"}
 
 *Created a website for a local business (gaming lounge called Rock n Rollas).*
 
@@ -66,7 +94,7 @@ Click the project names to open code repositories or demos.
    * In addition to this, I also made the website for Game A Thon, A bi annual eSports event held in VIT University using WordPress and CSS. 
 
 ---
-**Home Automation System**, 2014
+**Home Automation System**
 
 *This concept is a modular home automation system with available add on's.*
 
@@ -75,14 +103,14 @@ Click the project names to open code repositories or demos.
    * This was made at a Honeywell Hackathon, this idea was selected among the top 10 and we were given a chance to go to Honeywell Bangalore  to meet prospective VC's and showcase our creation.
 
 ---
-[**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}, 2014
+[**Game Development using Unreal Engine 4**](https://www.youtube.com/watch?v=yN54R70IJyU){:target="_blank"}
 
 *A LAN multi player 3rd person shooter game.* 
 
    * Worked on the back end to create the LAN capabilities and also made the various logics of the game ( like HP, teleportation and special moves).
 
 ---
-[**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}, 2014
+[**Game Development using Unreal Development Kit**](https://www.youtube.com/watch?v=fN8PgJOeTRU){:target="_blank"}
 
 *The project was a third person puzzler game made on unreal development kit.*
 
@@ -90,7 +118,7 @@ Click the project names to open code repositories or demos.
    * Designed and constructed the levels along with game logics and back end scripting using UnrealScript.
 
 ---
-[**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}, 2014
+[**Propeller Clock**](https://www.youtube.com/watch?v=rvjXhWs6Akk){:target="_blank"}
 
 *Based on the principle of persistence of vision, the project displays an analog clock on an array of rotating LED's.*
  
@@ -98,7 +126,7 @@ Click the project names to open code repositories or demos.
    * Coded the IR sensor to detect RPM and change speed accordingly using an Arduino.
 
 ---
-[**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}, 2014
+[**Notifier and Connectifier**](https://github.com/khannasarthak/Notifier-N-Connectifier){:target="_blank"}
 
 *Prototyped a cost effective Google glass alternative.*
 
@@ -109,7 +137,7 @@ Click the project names to open code repositories or demos.
    * The project was created in under 24 hours at a college hackathon.
 
 ---
-**Baby Vitals Monitoring**, 2014
+**Baby Vitals Monitoring**
 
 *Created low-cost sensor network to monitor neonatal vital signs.*
 

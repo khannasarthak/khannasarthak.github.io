@@ -36,6 +36,9 @@ Social Links:
 <a href="https://github.com/{{ site.github_username }}" target="_blank">Github 
 <i class="fa fa-github fa-lg fa-border"></i> 
 </a> •
+<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume
+<i class="fa fa-file-text-o fa-lg fa-border"></i>
+</a> •
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">Linkedin
 <i class="fa fa-linkedin fa-lg fa-border"></i> 
 </a> •
@@ -47,11 +50,7 @@ Social Links:
 </a> •
 <a href="mailto:{{ site.email }}">Email
 <i class="fa fa-envelope fa-lg fa-border"></i> 
-</a> •
-<a href="http://khannasarthak.github.io/SarthakKhannaCV.pdf" target="_blank">Resume
-<i class="fa fa-file-text-o fa-lg fa-border"></i>
 </a>
-
 
 
 
