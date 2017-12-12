@@ -18,15 +18,15 @@ I've done various [projects](http://khannasarthak.github.io/projects/), ranging 
 
 ##### Languages:
 
-Python • HTML/CSS • SQL• PHP • JavaScript • Matlab • C • Java
+Python • HTML/CSS • SQL • Java • Matlab • C • Java
 
 ##### Frameworks:
 
-Flask • jQuery • Bootstrap • Jekyll • Wordpress • Scikit-Learn • pandas • numpy • matplotlib • seaborn 
+Flask • jQuery • Bootstrap • Jekyll • Wordpress • Scikit-Learn • pandas • numpy • matplotlib • seaborn • libsvm
 
 ##### Misc:
 
-Git • MySQL • phpMyAdmin • Linux(Ubuntu) • Unreal Engine 4
+Git • MySQL • phpMyAdmin • Linux(Ubuntu) • Unreal Engine 4 • Android Studio
 
 ---
 For more details see [about.](http://khannasarthak.github.io/about/) You can also contact me via email at <a href="mailto:{{ site.email}}">**khannasarthak.1994@gmail.com**</a>
