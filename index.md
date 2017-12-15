@@ -5,11 +5,11 @@ published: true
 ---
 
 
-Hi,I'm a graduate student studying computer engineering, specializing in computer systems at Arizona State University.
+Hi, I'm a graduate student pursuing computer engineering, specializing in computer systems at Arizona State University. I have done my bachelors of technology in electronics and communications engineering. 
 
-My main interests are data science, machine learning and web technologies. I'm willing to learn new technologies and explore new career fields.
+My interests are web technologies, machine learning, and data sciences. But open to experimenting with other technologies as well. 
 
-Currently seeking **co-op/full time** opportunities, preferably in the United States. View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
+Currently seeking **full time/co-op** software developer opportunities, preferably in the United States, starting May 2018. View my **[resume.](http://khannasarthak.github.io/SarthakKhannaCV.pdf){:target="_blank"}**
 
 ---
 I've done various [projects](http://khannasarthak.github.io/projects/), ranging from hardware embedded systems to web apps. [Have a look!](http://khannasarthak.github.io/projects/).
