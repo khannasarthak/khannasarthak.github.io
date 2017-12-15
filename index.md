@@ -18,7 +18,7 @@ I've done various [projects](http://khannasarthak.github.io/projects/), ranging 
 
 ##### Languages:
 
-Python • HTML/CSS • SQL • Java • Matlab • C • Java
+Python • HTML/CSS • SQL • Java • Matlab • C
 
 ##### Frameworks:
 
