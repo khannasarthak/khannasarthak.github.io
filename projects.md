@@ -7,6 +7,16 @@ Click the project names to open code repositories or demos.
 
 
 ---
+[**BraiNet: Unlock phone using EEG signals**](https://github.com/khannasarthak/BraiNetMCProject){:target="_blank"}
+
+*An android app to authenticate users based on their brain EEG signals.*
+
+   * Setup the cloud and fog server. 
+   * Implemented the SVM algorithm to train and compare the users to authenticate.
+   * Created an offloading algorithm to determine which server to choose for authenticating.
+   * Measured various metrics of performance. More info in the resport
+
+---
 [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}
 
 *The project predicts the first booking that a completely new user will make upon visiting airbnb's website. (Kaggle problem statement)*
