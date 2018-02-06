@@ -14,7 +14,7 @@ Click the project names to open code repositories or demos.
    * Setup the cloud and fog server. 
    * Implemented the SVM algorithm to train and compare the users to authenticate.
    * Created an offloading algorithm to determine which server to choose for authenticating.
-   * Measured various metrics of performance. More info in the resport
+   * Measured various metrics of performance. Detailed information in the code repository.
 
 ---
 [**Airbnb New User Bookings Prediction**](https://github.com/khannasarthak/Airbnb-sml){:target="_blank"}
